@@ -1,0 +1,28 @@
+name: Evanreygo Surendraveda
+dp: https://avatars.githubusercontent.com/u/148765257?s=400&u=3b0945ad085ea4eb891c0204e0ed6e9c047ad96c&v=4
+navigasi: " <p>
+  <a href='https://price220903.github.io/about'>About</a> | 
+  <a href='https://price220903.github.io/contact'>Contact</a>
+  </p> <br/>"
+description: "
+  <p>
+    Just a regular person. I am not that special
+  </p>
+  <br/>
+  <p>
+    I have an interest in technology
+  </P>
+   <br/>
+  <p>
+    Click this link to see my github <a href='https://github.com/mrprice220903' target='_blank'> Github</a>
+  </p>
+ 
+"
+form: moqrjrbp
+contact-title: Contact
+email: evanreygo@gmail.com
+contact:
+  - title: github
+    url: https://github.com/mrprice220903
+  - title: email
+    url: mailto:evanreygo@gmail.com
