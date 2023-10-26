@@ -21,5 +21,5 @@ title: Contact
 
 ## Social
 
-1. [Facebook](https://web.facebook.com/ereygos.ereygos.7/)
-3. [Instagram](https://www.instagram.com/mrpriceless_/)
+1. Facebook: [Evanreygo Surendraveda](https://web.facebook.com/ereygos.ereygos.7/)
+3. Instagram: [@mrpriceless_](https://www.instagram.com/mrpriceless_/)
