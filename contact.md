@@ -3,8 +3,8 @@ layout: page
 title: Contact
 ---
 
-* Email: [emailevanreygo](mailto:evanreygo@gmail.com)
-* Whatsapp: 082336156818
+* Email: [Evanreygo Surendraveda](mailto:evanreygo@gmail.com)
+* Whatsapp: [Evanreygo Surendraveda](https://wa.me/qr/36TPDCGQXZTQF1)
 
 
 
