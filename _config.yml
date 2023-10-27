@@ -1,12 +1,12 @@
-title: Mr Priceless
+title: Ivan Afirmansyah
 markdown: kramdown
-url: "https://price220903.github.io"
+url: "https://ivanafirmansyah.github.io"
 baseurl: "/"
 
 # for atom feed
 author:
-  name: Evanreygo Surendraveda
-  email: evanreygo@gmail.com
+  name: Ivan Afirmansyah
+  email: pannn369@gmail.com
 
 plugins:
   - jemoji
