@@ -3,8 +3,8 @@ layout: page
 title: Contact
 ---
 
-* Email: [Evanreygo Surendraveda](mailto:evanreygo@gmail.com)
-* Whatsapp: [Evanreygo Surendraveda](https://wa.me/qr/36TPDCGQXZTQF1)
+* Email: [Ivan Afirmansyah](mailto:pannn369@gmail.com)
+* Whatsapp: [Ivan Afirmansyah]()
 
 
 
@@ -21,5 +21,5 @@ title: Contact
 
 ## Social
 
-1. Facebook: [Evanreygo Surendraveda](https://web.facebook.com/ereygos.ereygos.7/)
-3. Instagram: [@mrpriceless_](https://www.instagram.com/mrpriceless_/)
+1. Facebook: 
+3. Instagram: 
