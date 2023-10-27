@@ -4,13 +4,13 @@ title: Contact
 ---
 
 * Email: [Ivan Afirmansyah](mailto:pannn369@gmail.com)
-* Whatsapp: [Ivan Afirmansyah]()
+* Whatsapp: [Ivan Afirmansyah](https://wa.me/qr/3PUOYABI4FDDO1)
 
 
 
 ## Mailing Address
 
-> Permata Kota 3, G-22, jepun
+>DS.Balerejo.KEC.Kauman
 >
 > Tulungagung
 >
