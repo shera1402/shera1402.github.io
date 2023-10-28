@@ -20,6 +20,4 @@ title: Contact
 
 
 ## Social
-
-1. Facebook: 
-  3. Instagram:[@mz_pann](https://www.instagram.com/mz_pann/) 
+  1. Instagram:[@mz_pann](https://www.instagram.com/mz_pann/) 
