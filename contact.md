@@ -4,7 +4,7 @@ title: Contact
 ---
 
 * Email: [Ivan Afirmansyah](mailto:pannn369@gmail.com)
-* Whatsapp: [Ivan Afirmansyah](https://wa.me/qr/3PUOYABI4FDDO1)
+
 
 
 
