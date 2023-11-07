@@ -117,7 +117,7 @@ Komputer Generasi 4:
 <p>- Menggunakan Mikroprosesorsebagai komponen digital</p>
 <p>- Sudah terdapat layar monitor yang dapat menampilkan GUI</p>
 <p>- Ukuran bervariasi</p>
-Komputer Generasi Selanjutnya berupa cloud computing dan AI
+<p>Komputer Generasi Selanjutnya berupa cloud computing dan AI</p>
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/vacum.png)</span>
 Logic Gate:
 <p>Gerbang logika atau logic gates adalah proses pengolahan input bilangan biner
@@ -134,6 +134,6 @@ Tabel Kebenaran:
 suatu pernyataan. Di sini tabel kebenaran dapat diartikan sebagai table yang berisi 
 kombinasi-kombinasi variable masukan (input) yang menghasilkan keluaran (output) 
 yang logis.</p>
-<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/glogika.png)</span>
+
 
 
