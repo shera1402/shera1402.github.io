@@ -39,43 +39,43 @@ Komponen ALU:
 <p>-Pembanding(Comparator)</p>
 <p>-Rangkaian penanganan Overflow dan Carry</p>
 <p>-Bus Data(Jalur Komunikasi)</p>
-Register
+Register:
 <p>Register adalah salah satu darisekumpulan kecil tempat penyimpanan data yang 
 merupakan bagian dari prosesor komputer. Register dapat menyimpan instruksi, 
 alamat penyimpanan, atau jenis data apapun (seperti urutan bit atau 
 karakterindividual).</p>
-Operasi Register
--Fetch: Operasi Fetch digunakan untuk mengambil instruksi yang diberikan oleh 
-pengguna.
--Decode: Operasi Decode digunakan untuk menafsirkan instruksi.
--Execute: Operasi Execute dilakukan oleh CPU. Output yang dihasilkan oleh CPU 
-kemudian disimpan ke dalam memori dan setelah itu ditampilkan di layar pengguna.
-Jenis-Jenis Register
--MAR(Memory Address Register)
+Operasi Register:
+<p>-Fetch: Operasi Fetch digunakan untuk mengambil instruksi yang diberikan oleh 
+pengguna.</p>
+<p>-Decode: Operasi Decode digunakan untuk menafsirkan instruksi.</p>
+<p>-Execute: Operasi Execute dilakukan oleh CPU. Output yang dihasilkan oleh CPU 
+kemudian disimpan ke dalam memori dan setelah itu ditampilkan di layar pengguna.</p>
+Jenis-Jenis Register:
+<p>-MAR(Memory Address Register)
 Register ini menyimpan alamat memori dari data dan instruksi. Register ini 
 digunakan untuk mengakses data dan instruksi dari memoriselama fase eksekusi 
-suatu instruksi.
--MDR(Memory Data Register)
+suatu instruksi.</p>
+<p>-MDR(Memory Data Register)
 MDR adalah register unit kontrol komputer yang berisi data yang akan disimpan di 
 penyimpanan computer (misalnya RAM), atau data setelah diambil dari penyimpanan 
 komputer.Register ini bertindak seperti buffer dan menyimpan apa pun yang disalin 
 dari memori yang siap digunakan oleh prosesor. MDR menyimpan informasi sebelum 
-masuk ke decoder.
--MBR(Memory Buffer Register)
+masuk ke decoder.</p>
+<p>-MBR(Memory Buffer Register)
 Memory Buffer Register digunakan untukmenyimpan informasi dan data yang dapat
 dibaca atau ditulis dalam memori komputer.Fungsi utama MBR adalah untuk 
 menyimpan berbagai jenisinstruksi komputer dan data yang dapatditransfer 
 antarmemori komputer.Register MBR adalah register terkait memori utama untuk 
 prosesor yang ada di unit pemrosesan karena register ini mampu melakukan 
-operasiterkait memori dengan sangat cepat.
--PC(Program Counter)
+operasiterkait memori dengan sangat cepat.</p>
+<p>-PC(Program Counter)
 Nama lain dari register Program Counter adalah Instruction Address Register 
 (IAR) atau IC (instruction counter).Program Counter digunakan untuk menunjukkan 
 posisisaat ini dari urutan program dalam sistem komputer.Ketika instruksi diambil 
 dari memori, nilai Program Counter bertambah satu dan menunjuk ke instruksi 
 berikutnya yangperlu dieksekusi oleh prosesor CPU. Program Counter digunakan 
-untuk menyimpan alamatinstruksi langsung yang perlu dieksekusi selanjutnya.
--Accumulator
+untuk menyimpan alamatinstruksi langsung yang perlu dieksekusi selanjutnya.</p>
+<p>-Accumulator
 Register Accumulator memiliki peran yang sangat penting karena jika register ini 
 tidak ada maka semua hasil sementara yang perlu disimpan dalam memori utama 
 dapat menambah overhead pada memori. Hal ini karena operasi baca dan tulis yang 
@@ -83,19 +83,19 @@ tidak perlu akan meningkat.Hasil sementara yang diperoleh dari CPU dapat dengan
 mudah disimpan di register Accumulator. Kecepatan akses register Accumulator 
 jauh lebih cepat dibandingkan dengan memori utama. Dalam banyak sistem modern, 
 ada berbagai jenis accumulator yang dapat digunakan untuk menyimpan hasil
-sementara.
--Index Register
+sementara.</p>
+<p>-Index Register
 Index Register di CPU komputer adalah register prosesor yang digunakan untuk
 memodifikasi Alamat operan selama menjalankan program.Register ini banyak 
 digunakan untuk melakukan operasi array atau vektor. Konten diambil dari register 
 indeks dan ditambahkan atau dikurangi ke beberapa Alamat langsung untuk 
-mendapatkan Alamat data yang efektif.
--Instruction Register
+mendapatkan Alamat data yang efektif.</p>
+<p>-Instruction Register
 Instruction register merupakan jenis lain dari register CPU yang digunakan untuk 
 menyimpan instruksi yang sedang dieksekusi atau yang akan didekodekan.Dalam 
 prosesor, register ini menyimpan setiap instruksi di dalamnya, dan kemudian dapat 
 dieksekusi oleh prosesor. Instruksi dapat dieksekusi dalam satu langkah atau dapat 
-dieksekusi dalam beberapa langkah.
+dieksekusi dalam beberapa langkah.</p>
 ## Bab 2
 Sejarah Komputer
 Komputer Generasi 1
