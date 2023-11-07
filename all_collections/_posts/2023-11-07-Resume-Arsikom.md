@@ -237,45 +237,44 @@ Dengan 8 bit data, maka nilai integers adalah sebagai berikut :
 10000000 = 128
 11111111 = 255</p>
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/intergers.png)</span>
-Bilangan Real
+<p>Bilangan Real =
 Bilangan real adalah bilangan yang terdapat pecahan atau desimal.Contoh dari 
 bilangan real adalah 3.14, -0.05, dan sebagainya. Pada bahasa pemrograman bilang 
-real di notasikan sebagai float dan double
-Bilangan Cacah
-Bilangan cacah adalah bilang bulat tanpa nilai negatif.
-Data Non-Numerik
-Teks
-TEXT
+real di notasikan sebagai float dan double</p>
+<p>Bilangan Cacah =
+Bilangan cacah adalah bilang bulat tanpa nilai negatif.</p>
+Data Non-Numerik:
+<p>>TEXT
 data teks pada komputer mengacu pada cara teks atau informasi berbasis teks 
 direpresentasikan, disimpan,dan dikelola dalam sistem komputer. Representasi ini 
 mencakup cara karakter, kata, kalimat, dan dokumen dalam bentuk teks 
 direpresentasikan dalam format biner yang dapat dipahami dan diolah oleh
-komputer.
+komputer.</p>
 metode representasi data teks pada komputer:
--Character Encoding
+<p>-Character Encoding
 Character encoding adalah metode dasar untuk merepresentasikan karakter teks 
 dalam bentuk kode numerik. Setiap karakter (termasuk huruf, angka, dan simbol) 
-diberikan kode numerik yang unik.
--Plain Text
+diberikan kode numerik yang unik.</p>
+<p>-Plain Text
 Teks mentah atau plain text adalah representasi dasar teks di komputer. Ini adalah 
 urutan karakter yang direpresentasikan menggunakan karakter encoding tertentu, 
 seperti ASCII atau UTF-8. Teks mentah tidak memiliki pemformatan khusus dan 
-tidak mengandung tag atau markup.
-- Markup Languages
+tidak mengandung tag atau markup.</p>
+<p>- Markup Languages
 Markup languages seperti HTML (Hypertext Markup Language) dan XML 
 (eXtensibleMarkup Language) digunakan untuk merepresentasikan teks bersama 
 dengan tag yang memberikan instruksi untuk pemformatan dan tampilan. Markup 
 languages memungkinkan teks untuk dimunculkan dalam berbagai cara di web dan 
-aplikasi.
--Word Processing Formats
+aplikasi.</p>
+<p>-Word Processing Formats
 Format dokumen pengolah kata seperti DOCX (Microsoft Word), ODT
 (OpenDocument Text), dan RTF (Rich Text Format) digunakan untuk 
 merepresentasikan teks dengan pemformatan lanjutan, seperti huruf tebal, miring, 
-dan daftar.
-- Plain Text Files
+dan daftar.</p>
+<p>- Plain Text Files
 Teks mentah sering disimpan dalam file berformat .txt atau .csv. Ini adalah format 
-dasar yang hanya berisi teks tanpa format atau struktur tambahan.
-Image
+dasar yang hanya berisi teks tanpa format atau struktur tambahan.</p>
+<p>-Image
 Representasi Citra Digital → semua gambar yang bisa disimpan/diolah pada 
 komputer/piranti digital disebut dengan citra digital Citra tersusun dari elemen‐
 elemen terkecil yang disebut Pixel (picture element).Banyaknya pixel pada sebuah 
@@ -290,4 +289,4 @@ pixel:
 Sehingga, 1 pixel citra dengan format bmp memerlukan alokasi sebesar 24 bit (3 
 Byte). Format lain dari citra antara lain: jpg, gif, png,dsb. Umumnya memiliki ukuran 
 yang lebih kecil dari bmp untuk citra yang sama.Hal ini disebabkan format selain 
-bmp merupakan format yang telah mengalami kompresi.
+bmp merupakan format yang telah mengalami kompresi.</p>
