@@ -135,7 +135,6 @@ suatu pernyataan. Di sini tabel kebenaran dapat diartikan sebagai table yang ber
 kombinasi-kombinasi variable masukan (input) yang menghasilkan keluaran (output) 
 yang logis.</p>
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/gerbang.png)</span>
-
 ## Bab 3
 Memory:
 <p>Memory adalah perangkat atau sistem yang digunakan untuk menyimpan informasi 
@@ -173,4 +172,4 @@ komputer dimatikan atau direstart.</p>
 bahkan ketika daya listrik dimatikan. data yang disimpan dalam media non-volatile 
 akan tetap ada dan dapat diakses setelah komputer dimatikan atau restart,
 Perkembangan Memory</p>
-
+<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/memory.png)</span>
