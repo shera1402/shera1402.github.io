@@ -319,9 +319,24 @@ Bahasa ini menawarkan tingkat abstraksi yang lebih tinggi dibandingkan bahasa
 tingkat rendah. Biasanya, lebih mudah untuk memahami dan digunakanuntuk 
 mengembangkan perangkat lunak sistem.
 Contoh: Ada, Rust.</p>
-<p>Bahasa Tingkat Tinggi
+<p>Bahasa Tingkat Tinggi =
 Bahasa pemrograman yang sangat jauh dari bahasa mesin atau bahasa assembly 
 adalah bahasa pemrograman tingkat tinggi atau high-level language. Bahasa ini 
 sangat mudah dipahami oleh manusia dan lebih banyak digunakan untuk aplikasi web, 
 aplikasi mobile, atau aplikasi data science.
 Contoh bahasa tingkat tinggi adalah Python, Ruby, atau JavaScript.</p>
+## Bab 6
+Translator
+Dalam konteks bahasa pemrograman, "translator" biasanya merujuk kepada program 
+atau perangkat lunak yang mengubah kode sumber dari satu bahasa pemrograman ke 
+bahasa pemrograman lain. Ini biasanya dilakukan untuk beberapa tujuan seperti 
+portabilitas,optimisasi, atau integrasi.Ada 2 jenis translator utama pada bahasa 
+pemrograman, yaituCompiler dan Interpreter.
+-Compiler
+Compiler adalah jenis translator yang menerjemahkan seluruh kode sumber dalam
+satu kali proses ke dalam bahasa mesin atau kode antara (intermediate code).
+Compiler menghasilkan file biner atau kode antara yang dapat dieksekusi secara
+langsung oleh komputer.
+Contoh bahasa yang menggunakan compiler adalah C, C++, dan Ada.
+Fase Pada Compiler
+
