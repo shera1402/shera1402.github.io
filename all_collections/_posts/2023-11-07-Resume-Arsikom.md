@@ -205,17 +205,17 @@ Data pada Komputer:
 <p>Data Numerik =
 Data Numerik merupakan data yang berupa angka maupun bilangan, bisa dalam 
 bentuk integer, float dan sebagainya.</p>
-Data Non Numerik
+<p>Data Non Numerik =
 Data Non Numerik adalah data yang bukan berupa angka maupun bilangan.Contohnya 
-adalah dataTeks, gambar dan sebagainya.
-Data Numerik
-Sistem Decimal
+adalah dataTeks, gambar dan sebagainya.</p>
+Data Numerik:
+<p>Sistem Decimal =
 Sistem desimal merupakan sistem bilangan yang digunakan sehari-hari.
 Desimal terdiri dari angka 0,1,2,3,4,5,6,7,8,9.
 83 = (8x10) + 3
 Desimal memiliki base atau radix 10, jadi dapat disimpulkan sebagaiberikut :
 83 = (8x10^1) + (3x10^0)
-4728 = 4x10^... + 7x10^... + 2x10^... + 8x10^...
+4728 = 4x10^... + 7x10^... + 2x10^... + 8x10^...</p>
 Sistem Biner
 Sistem biner merupakan system bilangan yang terdiri dari angka 0 dan 1.
 1 = 0001
