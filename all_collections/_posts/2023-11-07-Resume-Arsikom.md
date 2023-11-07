@@ -96,7 +96,7 @@ menyimpan instruksi yang sedang dieksekusi atau yang akan didekodekan.Dalam
 prosesor, register ini menyimpan setiap instruksi di dalamnya, dan kemudian dapat 
 dieksekusi oleh prosesor. Instruksi dapat dieksekusi dalam satu langkah atau dapat 
 dieksekusi dalam beberapa langkah.
-Bab 2
+## Bab 2
 Sejarah Komputer
 Komputer Generasi 1
 - Ditemukan pada tahun 1940-1956
