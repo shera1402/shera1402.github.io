@@ -211,7 +211,7 @@ adalah dataTeks, gambar dan sebagainya.</p>
 Data Numerik:
 <p>Sistem Decimal =
 Sistem desimal merupakan sistem bilangan yang digunakan sehari-hari.
-Desimal terdiri dari angka 0,1,2,3,4,5,6,7,8,9.
+Desimal terdiri dari angka: 0,1,2,3,4,5,6,7,8,9.
 83 = (8x10) + 3
 Desimal memiliki base atau radix 10, jadi dapat disimpulkan sebagaiberikut :
 83 = (8x10^1) + (3x10^0)
