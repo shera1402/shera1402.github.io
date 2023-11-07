@@ -1,12 +1,12 @@
 ---
 layout: post
 title: My Device
-date: 2023-10-26
+date: 2023-11-07
 comments: true
 ---
 
 Resume Arsikom
-Bab 1
+## Bab 1
 CPU/Central Processing Unit adalah bagian terpenting dari sebuah komputer yang
 bertanggung jawab untuk menjalankan instruksi-instruksi yang diberikan kepada
 komputer.
