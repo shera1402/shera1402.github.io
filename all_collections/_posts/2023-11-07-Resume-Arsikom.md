@@ -326,29 +326,30 @@ sangat mudah dipahami oleh manusia dan lebih banyak digunakan untuk aplikasi web
 aplikasi mobile, atau aplikasi data science.
 Contoh bahasa tingkat tinggi adalah Python, Ruby, atau JavaScript.</p>
 ## Bab 6
-Translator
-Dalam konteks bahasa pemrograman, "translator" biasanya merujuk kepada program 
+Translator:
+<p>Dalam konteks bahasa pemrograman, "translator" biasanya merujuk kepada program 
 atau perangkat lunak yang mengubah kode sumber dari satu bahasa pemrograman ke 
 bahasa pemrograman lain. Ini biasanya dilakukan untuk beberapa tujuan seperti 
-portabilitas,optimisasi, atau integrasi.Ada 2 jenis translator utama pada bahasa 
-pemrograman, yaituCompiler dan Interpreter.
--Compiler
+portabilitas,optimisasi, atau integrasi.</p> 
+<p>Ada 2 jenis translator utama pada bahasa 
+pemrograman, yaituCompiler dan Interpreter.</p>
+<p>-Compiler =
 Compiler adalah jenis translator yang menerjemahkan seluruh kode sumber dalam
 satu kali proses ke dalam bahasa mesin atau kode antara (intermediate code).
 Compiler menghasilkan file biner atau kode antara yang dapat dieksekusi secara
 langsung oleh komputer.
-Contoh bahasa yang menggunakan compiler adalah C, C++, dan Ada.
-Fase Pada Compiler
+Contoh bahasa yang menggunakan compiler adalah C, C++, dan Ada.</p>
+Fase Pada Compiler:
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/compiler.png)</span>
-Interpreter
+<p>Interpreter =
 Interpreter adalah jenis translator yang membaca dan mengeksekusi kode sumber 
 baris demi baris saat program berjalan. Ini berarti kode sumber tidak 
 diterjemahkan ke dalam bahasa mesin atau kode antara sebelum dieksekusi.
-Contoh bahasa yang menggunakan interpreter adalah Python,JavaScript, dan Ruby.
-Compiler VS Interpreter
+Contoh bahasa yang menggunakan interpreter adalah Python,JavaScript, dan Ruby.</p>
+Compiler VS Interpreter:
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/interpreter.png)</span>
-Linker 
+<p>Linker = 
 Linker adalah bagian dari proses kompilasi dalam pengembangan perangkat lunak yang 
 bertanggung jawab untuk menggabungkan berbagai modul kode sumber menjadi sebuah 
-program eksekusi yang dapat dijalankan
+program eksekusi yang dapat dijalankan</p>
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/linker.png)</span>
