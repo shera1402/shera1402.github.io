@@ -98,25 +98,25 @@ dieksekusi oleh prosesor. Instruksi dapat dieksekusi dalam satu langkah atau dap
 dieksekusi dalam beberapa langkah.</p>
 ## Bab 2
 Sejarah Komputer
-Komputer Generasi 1
-- Ditemukan pada tahun 1940-1956
-- Menggunakan Vacuum Tube sebagai komponen digital
-- Bahasa yang digunakan bahasamesin(0 dan 1)
-- Membutuhkan ruangan yang luas
-Komputer Generasi 2
-- Digunakan antara tahun 1956-1963
-- Menggunakan Transistor sebagai komponen digitalnya
-- Bahasa yang digunakan Bahasa assembly
-- Ukuran tidak sebesar generasi 1
-Komputer Generasi 3
-- Digunakan tahun 1964-1971
-- Menggunakan IC (Integrated Circuits) sebagai komponen digital
-- Ukuran lebih kecil dari generasi 2
-Komputer Generasi 4
-- Digunakan pada tahun 1971-sekarang
-- Menggunakan Mikroprosesorsebagai komponen digital
-- Sudah terdapat layar monitor yang dapat menampilkan GUI
-- Ukuran bervariasi
+Komputer Generasi 1:
+<p>- Ditemukan pada tahun 1940-1956</p>
+<p>- Menggunakan Vacuum Tube sebagai komponen digital</p>
+<p>- Bahasa yang digunakan bahasamesin(0 dan 1)</p>
+<p>- Membutuhkan ruangan yang luas</p>
+Komputer Generasi 2:
+<p>- Digunakan antara tahun 1956-1963</p>
+<p>- Menggunakan Transistor sebagai komponen digitalnya</p>
+<p>- Bahasa yang digunakan Bahasa assembly</p>
+<p>- Ukuran tidak sebesar generasi 1</p>
+Komputer Generasi 3:
+<p>- Digunakan tahun 1964-1971</p>
+<p>- Menggunakan IC (Integrated Circuits) sebagai komponen digital</p>
+<p>- Ukuran lebih kecil dari generasi 2</p>
+Komputer Generasi 4:
+<p>- Digunakan pada tahun 1971-sekarang</p>
+<p>- Menggunakan Mikroprosesorsebagai komponen digital</p>
+<p>- Sudah terdapat layar monitor yang dapat menampilkan GUI</p>
+<p>- Ukuran bervariasi</p>
 Komputer Generasi Selanjutnya berupa cloud computing dan AI
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/vacum.png)</span>
 Logic Gate:
