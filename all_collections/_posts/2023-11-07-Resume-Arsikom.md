@@ -24,12 +24,12 @@ Arithmetic Logic Unit
 (CPU) pada komputer. ALU bertanggung jawab untuk melakukan operasi aritmatika 
 (seperti penjumlahan,pengurangan, perkalian, dan pembagian) serta operasi logika 
 (seperti AND, OR, XOR,dan NOT) dalam sistem komputer.</p>
-<h3>Peran ALU:</h3>
--Operasi Aritmatika
--Operasi Logika
--Perbandingan dan Pemrosesan Data
--Operasi Bitwise
--Penaganan Overflow dan Carry
+Peran ALU:
+<p>-Operasi Aritmatika</p>
+<p>-Operasi Logika</p>
+<p>-Perbandingan dan Pemrosesan Data</p>
+<p>-Operasi Bitwise</p>
+<p>-Penaganan Overflow dan Carry</p>
 Komponen ALU
 -Register
 -Pemilih(Multiplexer)
