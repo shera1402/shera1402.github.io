@@ -184,13 +184,13 @@ media penyimpanan yang sesuai ke RAM untuk digunakan dalam operasi saat ini. Dat
 dapat ditulis kembali ke media penyimpanan jika ada perubahan dalam data 
 tersebut.</p>
 Cara Optimalisasi Memory:
-- Pembersihan Aplikasi dan Proses yang Tidak Diperlukan
-- Pengelolaan Cache
-- Virtual Memory
-- Meningkatkan RAM
-- Optimasi Penggunaan Browser
-- Mengelola Startup Aplikasi
-- Menggunakan Software Optimalisasi Memori
-- Menghapus File Sementara dan Sampah
-- Mengaktifkan Trim (untuk SSD)
-- Pemantauan Penggunaan Memori
+<p>- Pembersihan Aplikasi dan Proses yang Tidak Diperlukan</p>
+<p>- Pengelolaan Cache</p>
+<p>- Virtual Memory</p>
+<p>- Meningkatkan RAM</p>
+<p>- Optimasi Penggunaan Browser</p>
+<P>- Mengelola Startup Aplikasi</P>
+<p>- Menggunakan Software Optimalisasi Memori</p>
+<p>- Menghapus File Sementara dan Sampah</p>
+<p>- Mengaktifkan Trim (untuk SSD)</p>
+<p>- Pemantauan Penggunaan Memori</p>
