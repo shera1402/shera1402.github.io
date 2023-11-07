@@ -119,3 +119,20 @@ Komputer Generasi 4
 - Ukuran bervariasi
 Komputer Generasi Selanjutnya berupa cloud computing dan AI
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/vacum.png)</span>
+Logic Gate:
+<p>Gerbang logika atau logic gates adalah proses pengolahan input bilangan biner
+dengan teori matematika boolean.Logic gate ini direpresentasikanmenggunakan 
+tabel kebenaran. Jika memiliki nilai benar (true) akan ditunjukan dengan angka “1”. 
+Sebaliknya, jika memiliki nilai salah (false) akan ditunjukan dengan angka “0”.<p>
+Fungsi Gerbang Logika:
+<p>Gerbang logika memiliki fungsi untuk melakukan fungsi logika dasar untuk
+membentuk sirkuit digital yang terintegrasi. Kebanyakan logic gate menggunakan
+bilangan biner 0 atau 1 bisa juga disebut true atau false. Biasanya terdiri dari dua
+buah nilai input dan satu nilai output.</p>
+Tabel Kebenaran:
+<p>Tabel kebenaran adalah tabel yang digunakan untuk melihat nilai kebenaran Dari
+suatu pernyataan. Di sini tabel kebenaran dapat diartikan sebagai table yang berisi 
+kombinasi-kombinasi variable masukan (input) yang menghasilkan keluaran (output) 
+yang logis.</p>
+
+
