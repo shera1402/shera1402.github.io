@@ -6,18 +6,18 @@ comments: true
 ---
 
 ## Bab 1
-CPU/Central Processing Unit adalah bagian terpenting dari sebuah komputer yang
+<p>CPU/Central Processing Unit adalah bagian terpenting dari sebuah komputer yang
 bertanggung jawab untuk menjalankan instruksi-instruksi yang diberikan kepada
-komputer.
+komputer.</p>
 Komponen CPU
--Control Unit: Mengendalikan operasi dasar CPU dan mengarahkan aliran data dan
+<p>-Control Unit: Mengendalikan operasi dasar CPU dan mengarahkan aliran data dan
 instruksi dalam prosesor.
 -Arithmetic and logic unit (ALU): Untuk melakukan operasi aritmetika dan operasi 
 logika berdasar instruksi yang ditentukan.
 -Register: Penyimpanan sementara yang digunakan untuk menyimpan data yang 
 sedang diproses atau hasil perhitungan sementara selama eksekusi instruksi 
 komputer.
--CPU Interconnection: sistem koneksi dan bus yang menghubungkan komponen 
+-CPU Interconnection: sistem koneksi dan bus yang menghubungkan komponen</p> 
 internal CPU dengan bus-bus eksternal CPU.
 Arithmetic Logic Unit
 ALU (Arithmetic Logic Unit) adalah komponen penting dalam unit pemrosesan pusat 
