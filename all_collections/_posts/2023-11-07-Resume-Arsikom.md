@@ -195,3 +195,4 @@ Cara Optimalisasi Memory:
 <p>- Menghapus File Sementara dan Sampah</p>
 <p>- Mengaktifkan Trim (untuk SSD)</p>
 <p>- Pemantauan Penggunaan Memori</p>
+## Bab 4
