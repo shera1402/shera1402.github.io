@@ -346,5 +346,9 @@ baris demi baris saat program berjalan. Ini berarti kode sumber tidak
 diterjemahkan ke dalam bahasa mesin atau kode antara sebelum dieksekusi.
 Contoh bahasa yang menggunakan interpreter adalah Python,JavaScript, dan Ruby.
 Compiler VS Interpreter
-
-
+<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/interpreter.png)</span>
+Linker 
+Linker adalah bagian dari proses kompilasi dalam pengembangan perangkat lunak yang 
+bertanggung jawab untuk menggabungkan berbagai modul kode sumber menjadi sebuah 
+program eksekusi yang dapat dijalankan
+<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/linker.png)</span>
