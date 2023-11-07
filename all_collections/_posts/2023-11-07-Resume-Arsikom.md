@@ -118,3 +118,4 @@ Komputer Generasi 4
 - Sudah terdapat layar monitor yang dapat menampilkan GUI
 - Ukuran bervariasi
 Komputer Generasi Selanjutnya berupa cloud computing dan AI
+<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/vacum.png)</span>
