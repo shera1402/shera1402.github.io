@@ -339,4 +339,12 @@ Compiler menghasilkan file biner atau kode antara yang dapat dieksekusi secara
 langsung oleh komputer.
 Contoh bahasa yang menggunakan compiler adalah C, C++, dan Ada.
 Fase Pada Compiler
+<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/compiler.png)</span>
+Interpreter
+Interpreter adalah jenis translator yang membaca dan mengeksekusi kode sumber 
+baris demi baris saat program berjalan. Ini berarti kode sumber tidak 
+diterjemahkan ke dalam bahasa mesin atau kode antara sebelum dieksekusi.
+Contoh bahasa yang menggunakan interpreter adalah Python,JavaScript, dan Ruby.
+Compiler VS Interpreter
+
 
