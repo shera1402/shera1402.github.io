@@ -11,13 +11,13 @@ bertanggung jawab untuk menjalankan instruksi-instruksi yang diberikan kepada
 komputer.</p>
 Komponen CPU
 <p>-Control Unit: Mengendalikan operasi dasar CPU dan mengarahkan aliran data dan
-instruksi dalam prosesor.
--Arithmetic and logic unit (ALU): Untuk melakukan operasi aritmetika dan operasi 
-logika berdasar instruksi yang ditentukan.
--Register: Penyimpanan sementara yang digunakan untuk menyimpan data yang 
+instruksi dalam prosesor.</p>
+<p>>-Arithmetic and logic unit (ALU): Untuk melakukan operasi aritmetika dan operasi 
+logika berdasar instruksi yang ditentukan.</p>
+<p>-Register: Penyimpanan sementara yang digunakan untuk menyimpan data yang 
 sedang diproses atau hasil perhitungan sementara selama eksekusi instruksi 
-komputer.
--CPU Interconnection: sistem koneksi dan bus yang menghubungkan komponen</p> 
+komputer.</p>
+<p>-CPU Interconnection: sistem koneksi dan bus yang menghubungkan komponen</p> 
 internal CPU dengan bus-bus eksternal CPU.
 Arithmetic Logic Unit
 ALU (Arithmetic Logic Unit) adalah komponen penting dalam unit pemrosesan pusat 
