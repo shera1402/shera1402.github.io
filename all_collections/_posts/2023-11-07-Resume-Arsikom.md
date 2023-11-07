@@ -172,6 +172,7 @@ komputer dimatikan atau direstart.</p>
 bahkan ketika daya listrik dimatikan. data yang disimpan dalam media non-volatile 
 akan tetap ada dan dapat diakses setelah komputer dimatikan atau restart,
 Perkembangan Memory</p>
+
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/memory.png)</span>
 Cara Kerja Memory:
 <p>Memori dalam konteks komputer adalah tempat penyimpanan data dan instruksi 
