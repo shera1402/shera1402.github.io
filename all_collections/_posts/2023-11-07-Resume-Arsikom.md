@@ -220,19 +220,19 @@ Desimal memiliki base atau radix 10, jadi dapat disimpulkan sebagaiberikut :
 Sistem biner merupakan system bilangan yang terdiri dari angka 0 dan 1.
 1 = 0001
 8 = 1000
-Sistem biner memiliki base atau radix 2, jadi dapat disimpulkan sebagai
+.Sistem biner memiliki base atau radix 2, jadi dapat disimpulkan sebagai
 berikut :
 Contoh berikut pada 4 bit
 1 = 0*2^3 + 0*2^2 + 0*2^1 + 0*2^0
 8 = ....................</p>
-Integers
+<p>Integers =
 Integers atau bilangan bulat merupakan bilangan yang terdiri dari
 nilai positif, negatif dan bukan berupa pecahan/desimal.
 Contoh bilangan bulat adalah –5, 0, 8
-Pada pemrograman integers akan dinotasikan sebagai int
+.Pada pemrograman integers akan dinotasikan sebagai int
 Dengan 8 bit data, maka nilai integers adalah sebagai berikut :
 00000000 = 0
 00000001 = 1
 00101001 = 41
 10000000 = 128
-11111111 = 255
+11111111 = 255</p>
