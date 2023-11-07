@@ -196,15 +196,15 @@ Cara Optimalisasi Memory:
 <p>- Mengaktifkan Trim (untuk SSD)</p>
 <p>- Pemantauan Penggunaan Memori</p>
 ## Bab 4
-Data
-Data adalah fakta-fakta, angka, informasi,atau rekaman yang digunakan sebagai
+Data:
+<p>Data adalah fakta-fakta, angka, informasi,atau rekaman yang digunakan sebagai
 dasar untuk pengambilan keputusan,analisis, penelitian, atau tujuan lainnya.Data 
 dapat berupa berbagai jenis, seperti teks, angka, gambar, audio, atau video,dan 
-dapat mewakili berbagai jenis informasi.
-Data pada Komputer
-Data Numerik
+dapat mewakili berbagai jenis informasi.</p>
+Data pada Komputer:
+<p>Data Numerik =
 Data Numerik merupakan data yang berupa angka maupun bilangan, bisa dalam 
-bentuk integer, float dan sebagainya.
+bentuk integer, float dan sebagainya.</p>
 Data Non Numerik
 Data Non Numerik adalah data yang bukan berupa angka maupun bilangan.Contohnya 
 adalah dataTeks, gambar dan sebagainya.
