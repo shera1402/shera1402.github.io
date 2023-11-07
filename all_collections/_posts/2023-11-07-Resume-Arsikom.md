@@ -196,3 +196,43 @@ Cara Optimalisasi Memory:
 <p>- Mengaktifkan Trim (untuk SSD)</p>
 <p>- Pemantauan Penggunaan Memori</p>
 ## Bab 4
+Data
+Data adalah fakta-fakta, angka, informasi,atau rekaman yang digunakan sebagai
+dasar untuk pengambilan keputusan,analisis, penelitian, atau tujuan lainnya.Data 
+dapat berupa berbagai jenis, seperti teks, angka, gambar, audio, atau video,dan 
+dapat mewakili berbagai jenis informasi.
+Data pada Komputer
+Data Numerik
+Data Numerik merupakan data yang berupa angka maupun bilangan, bisa dalam 
+bentuk integer, float dan sebagainya.
+Data Non Numerik
+Data Non Numerik adalah data yang bukan berupa angka maupun bilangan.Contohnya 
+adalah dataTeks, gambar dan sebagainya.
+Data Numerik
+Sistem Decimal
+Sistem desimal merupakan sistem bilangan yang digunakan sehari-hari.
+Desimal terdiri dari angka 0,1,2,3,4,5,6,7,8,9.
+83 = (8x10) + 3
+Desimal memiliki base atau radix 10, jadi dapat disimpulkan sebagaiberikut :
+83 = (8x10^1) + (3x10^0)
+4728 = 4x10^... + 7x10^... + 2x10^... + 8x10^...
+Sistem Biner
+Sistem biner merupakan system bilangan yang terdiri dari angka 0 dan 1.
+1 = 0001
+8 = 1000
+Sistem biner memiliki base atau radix 2, jadi dapat disimpulkan sebagai
+berikut :
+Contoh berikut pada 4 bit
+1 = 0*2^3 + 0*2^2 + 0*2^1 + 0*2^0
+8 = ....................
+Integers
+Integers atau bilangan bulat merupakan bilangan yang terdiri dari
+nilai positif, negatif dan bukan berupa pecahan/desimal.
+Contoh bilangan bulat adalah –5, 0, 8
+Pada pemrograman integers akan dinotasikan sebagai int
+Dengan 8 bit data, maka nilai integers adalah sebagai berikut :
+00000000 = 0
+00000001 = 1
+00101001 = 41
+10000000 = 128
+11111111 = 255
