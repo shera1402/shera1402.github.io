@@ -290,3 +290,38 @@ Sehingga, 1 pixel citra dengan format bmp memerlukan alokasi sebesar 24 bit (3
 Byte). Format lain dari citra antara lain: jpg, gif, png,dsb. Umumnya memiliki ukuran 
 yang lebih kecil dari bmp untuk citra yang sama.Hal ini disebabkan format selain 
 bmp merupakan format yang telah mengalami kompresi.</p>
+## Bab 5
+Bahasa Pemrograman :
+<p>Bahasa pemrograman adalah sebuah bahasa yang digunakan untuk menulis atau 
+menyusun kode yang dapat diterjemahkan oleh komputer menjadi instruksi-instruksi
+yang dapat dieksekusi. Hal ini sama saja dengan menjadikan Bahasa pemrograman 
+sebagai cara yang bisa dipahami oleh komputer.</p>
+<p>Bahasa pemrograman ada beberapa jenis antara lain : bahasa tingkat rendah, 
+bahasa mesin, Bahasa tingkat menengah dan Bahasa tingkat tinggi.</p>
+Fungsi Bahasa Pemrograman:
+<p>- Memudahkan Komunikasi Antara Komputer dan Pengguna</p>
+<p>- Membuat Aplikasi yang Kompleks</p>
+<p>- Membuat Kode Reusable</p>
+<p>- Mempercepat Pengembangan Software</p>
+<p>- Membuat Komputer Melakukan Banyak Tugas yang Berbeda</p>
+<p>Bahasa Mesin/Bahasa Assembly =
+Bahasa mesin adalah bentuk Bahasa pemrograman yang paling rendah dalam hal 
+tingkat abstraksi. Bahasa mesin menggambarkan instruksi dalam kode biner yang
+secara langsung dapat dieksekusi oleh komputer. Setiap bahasa mesin terkait erat 
+dengan arsitektur perangkat keras tertentu.</p>
+<p>Bahasa Tingkat Rendah =
+Bahasa ini memberikan control yang lebih langsung atas perangkat keras 
+komputer.Instruksi lebih dekat dengan bahasa mesin, tetapi lebih mudah dipahami 
+oleh manusia.
+Contoh: C dan C++.</p>
+<p>Bahasa Tingkat Menengah =
+Bahasa ini menawarkan tingkat abstraksi yang lebih tinggi dibandingkan bahasa 
+tingkat rendah. Biasanya, lebih mudah untuk memahami dan digunakanuntuk 
+mengembangkan perangkat lunak sistem.
+Contoh: Ada, Rust.</p>
+<p>Bahasa Tingkat Tinggi
+Bahasa pemrograman yang sangat jauh dari bahasa mesin atau bahasa assembly 
+adalah bahasa pemrograman tingkat tinggi atau high-level language. Bahasa ini 
+sangat mudah dipahami oleh manusia dan lebih banyak digunakan untuk aplikasi web, 
+aplikasi mobile, atau aplikasi data science.
+Contoh bahasa tingkat tinggi adalah Python, Ruby, atau JavaScript.</p>
