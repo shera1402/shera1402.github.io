@@ -228,7 +228,7 @@ Contoh berikut pada 4 bit
 <p>Integers =
 Integers atau bilangan bulat merupakan bilangan yang terdiri dari
 nilai positif, negatif dan bukan berupa pecahan/desimal.
-Contoh bilangan bulat adalah –5, 0, 8
+Contoh bilangan bulat adalah = –5, 0, 8
 .Pada pemrograman integers akan dinotasikan sebagai int
 Dengan 8 bit data, maka nilai integers adalah sebagai berikut :
 00000000 = 0
