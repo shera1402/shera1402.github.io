@@ -158,19 +158,19 @@ memerlukan daya listrik berkelanjutan dan data yang disimpan bersifat tetap
 hingga diubah atau dihapus secara sengaja. Ini termasuk tipe memori seperti Static 
 RAM (SRAM) dan non-volatile memory seperti Flash memory.</p>
 - Dynamic Memory
-tipe memori yang digunakan untuk penyimpanan data yang dapat dibaca dan ditulis 
+<p>tipe memori yang digunakan untuk penyimpanan data yang dapat dibaca dan ditulis 
 oleh perangkat lunak komputer. memerlukan penyegaran berulang untuk 
 mempertahankan data dan bersifat volatil, artinya data hilang ketika daya mati. Ini 
 digunakan sebagai memori utama dalam komputer untuk penyimpanan sementara 
-data yang aktif saat komputer beroperasi.
+data yang aktif saat komputer beroperasi.</p>
 - Volatile
-suatu jenis memori atau data yang dapat hilang atau terhapus ketika daya listrik 
+<p>suatu jenis memori atau data yang dapat hilang atau terhapus ketika daya listrik 
 diputuskan atau perangkat dimatikan. Dengan kata lain, data dalam memori volatil 
 akan lenyap saat daya mati. Contoh utama dari memori volatil adalah RAM (RandomAccess Memory) dalam komputer, yang kehilangan data yang tersimpan saat 
-komputer dimatikan atau direstart. 
+komputer dimatikan atau direstart.</p> 
 - Non-volatile
-suatu komponen atau memori untuk menjaga data atau informasi yang tersimpan 
+<p>suatu komponen atau memori untuk menjaga data atau informasi yang tersimpan 
 bahkan ketika daya listrik dimatikan. data yang disimpan dalam media non-volatile 
 akan tetap ada dan dapat diakses setelah komputer dimatikan atau restart,
-Perkembangan Memory
+Perkembangan Memory</p>
 
