@@ -173,3 +173,24 @@ bahkan ketika daya listrik dimatikan. data yang disimpan dalam media non-volatil
 akan tetap ada dan dapat diakses setelah komputer dimatikan atau restart,
 Perkembangan Memory</p>
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/memory.png)</span>
+Cara Kerja Memory:
+<p>Memori dalam konteks komputer adalah tempat penyimpanan data dan instruksi 
+yang diperlukan untuk operasi komputer. Terdapat beberapa jenis memori yang 
+bekerja berbeda dalam komputer, seperti RAM, ROM, dan penyimpanan sekunder 
+(seperti hard drive atau SSD).</p>
+<p>Cara kerja memori di komputer melibatkan proses pembacaan dan penulisan data. 
+Ketika komputer memerlukan data atau instruksi, ia membaca data tersebut dari 
+media penyimpanan yang sesuai ke RAM untuk digunakan dalam operasi saat ini. Data 
+dapat ditulis kembali ke media penyimpanan jika ada perubahan dalam data 
+tersebut.</p>
+Cara Optimalisasi Memory:
+- Pembersihan Aplikasi dan Proses yang Tidak Diperlukan
+- Pengelolaan Cache
+- Virtual Memory
+- Meningkatkan RAM
+- Optimasi Penggunaan Browser
+- Mengelola Startup Aplikasi
+- Menggunakan Software Optimalisasi Memori
+- Menghapus File Sementara dan Sampah
+- Mengaktifkan Trim (untuk SSD)
+- Pemantauan Penggunaan Memor
