@@ -30,20 +30,20 @@ Peran ALU:
 <p>-Perbandingan dan Pemrosesan Data</p>
 <p>-Operasi Bitwise</p>
 <p>-Penaganan Overflow dan Carry</p>
-Komponen ALU
--Register
--Pemilih(Multiplexer)
--Dekoder
--Rangkaian Aritmatika
--Rangkaian Logika
--Pembanding(Comparator)
--Rangkaian penanganan Overflow dan Carry
--Bus Data(Jalur Komunikasi)
+Komponen ALU:
+<p>-Register</p>
+<p>-Pemilih(Multiplexer)</p>
+<p>-Dekoder</p>
+<p>-Rangkaian Aritmatika</p>
+<p>-Rangkaian Logika</p>
+<p>-Pembanding(Comparator)</p>
+<p>-Rangkaian penanganan Overflow dan Carry</p>
+<p>-Bus Data(Jalur Komunikasi)</p>
 Register
-Register adalah salah satu darisekumpulan kecil tempat penyimpanan data yang 
+<p>Register adalah salah satu darisekumpulan kecil tempat penyimpanan data yang 
 merupakan bagian dari prosesor komputer. Register dapat menyimpan instruksi, 
 alamat penyimpanan, atau jenis data apapun (seperti urutan bit atau 
-karakterindividual).
+karakterindividual).</p>
 Operasi Register
 -Fetch: Operasi Fetch digunakan untuk mengambil instruksi yang diberikan oleh 
 pengguna.
