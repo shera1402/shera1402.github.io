@@ -216,7 +216,7 @@ Desimal terdiri dari angka: 0,1,2,3,4,5,6,7,8,9.
 Desimal memiliki base atau radix 10, jadi dapat disimpulkan sebagaiberikut :
 83 = (8x10^1) + (3x10^0)
 4728 = 4x10^... + 7x10^... + 2x10^... + 8x10^...</p>
-Sistem Biner
+<p>Sistem Biner =
 Sistem biner merupakan system bilangan yang terdiri dari angka 0 dan 1.
 1 = 0001
 8 = 1000
@@ -224,7 +224,7 @@ Sistem biner memiliki base atau radix 2, jadi dapat disimpulkan sebagai
 berikut :
 Contoh berikut pada 4 bit
 1 = 0*2^3 + 0*2^2 + 0*2^1 + 0*2^0
-8 = ....................
+8 = ....................</p>
 Integers
 Integers atau bilangan bulat merupakan bilangan yang terdiri dari
 nilai positif, negatif dan bukan berupa pecahan/desimal.
