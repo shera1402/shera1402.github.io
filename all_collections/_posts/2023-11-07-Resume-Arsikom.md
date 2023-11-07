@@ -136,4 +136,40 @@ kombinasi-kombinasi variable masukan (input) yang menghasilkan keluaran (output)
 yang logis.</p>
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/gerbang.png)</span>
 
+## Bab3
+Memory:
+<p>Memory adalah perangkat atau sistem yang digunakan untuk menyimpan informasi 
+untuk penggunaan langsung dalam komputer atau perangkat keras komputer dan
+perangkat elektronik digital yang terkait.</p>
+Jenis Memory:
+- Memory Read Only (ROM)
+<p>tipe memori komputer yang berisi data yang tidak dapat diubah oleh pengguna. Data 
+dalam ROM bersifat tetap dan digunakan untuk menyimpan firmware, instruksi 
+komputer, dan data yang perlu ada selama perangkat hidup.</p>
+- Memory Read/Write
+tipe memori komputer yang memungkinkan pengguna untuk membaca (mengambil 
+data dari memori) dan menulis (menyimpan atau mengubah data ke dalam memori) 
+sesuai kebutuhan. Memory R/W umumnya digunakan untuk penyimpanan data 
+sementara (seperti RAM) yang memungkinkan komputer untuk bekerja dengan data 
+secara dinamis selama operasi.
+- Static Memory tipe memori komputer yang dapat menyimpan data tanpa 
+memerlukan daya listrik berkelanjutan dan data yang disimpan bersifat tetap 
+hingga diubah atau dihapus secara sengaja. Ini termasuk tipe memori seperti Static 
+RAM (SRAM) dan non-volatile memory seperti Flash memory.
+- Dynamic Memory
+tipe memori yang digunakan untuk penyimpanan data yang dapat dibaca dan ditulis 
+oleh perangkat lunak komputer. memerlukan penyegaran berulang untuk 
+mempertahankan data dan bersifat volatil, artinya data hilang ketika daya mati. Ini 
+digunakan sebagai memori utama dalam komputer untuk penyimpanan sementara 
+data yang aktif saat komputer beroperasi.
+- Volatile
+suatu jenis memori atau data yang dapat hilang atau terhapus ketika daya listrik 
+diputuskan atau perangkat dimatikan. Dengan kata lain, data dalam memori volatil 
+akan lenyap saat daya mati. Contoh utama dari memori volatil adalah RAM (RandomAccess Memory) dalam komputer, yang kehilangan data yang tersimpan saat 
+komputer dimatikan atau direstart. 
+- Non-volatile
+suatu komponen atau memori untuk menjaga data atau informasi yang tersimpan 
+bahkan ketika daya listrik dimatikan. data yang disimpan dalam media non-volatile 
+akan tetap ada dan dapat diakses setelah komputer dimatikan atau restart,
+Perkembangan Memory
 
