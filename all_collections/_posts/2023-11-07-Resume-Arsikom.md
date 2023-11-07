@@ -134,6 +134,6 @@ Tabel Kebenaran:
 suatu pernyataan. Di sini tabel kebenaran dapat diartikan sebagai table yang berisi 
 kombinasi-kombinasi variable masukan (input) yang menghasilkan keluaran (output) 
 yang logis.</p>
-<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/gerbang.png)</span>
+<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/glogika.png)</span>
 
 
