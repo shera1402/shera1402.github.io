@@ -20,11 +20,11 @@ komputer.</p>
 <p>-CPU Interconnection: sistem koneksi dan bus yang menghubungkan komponen 
 internal CPU dengan bus-bus eksternal CPU.</p>
 Arithmetic Logic Unit
-ALU (Arithmetic Logic Unit) adalah komponen penting dalam unit pemrosesan pusat 
+<p>ALU (Arithmetic Logic Unit) adalah komponen penting dalam unit pemrosesan pusat 
 (CPU) pada komputer. ALU bertanggung jawab untuk melakukan operasi aritmatika 
 (seperti penjumlahan,pengurangan, perkalian, dan pembagian) serta operasi logika 
-(seperti AND, OR, XOR,dan NOT) dalam sistem komputer.
-Peran ALU:
+(seperti AND, OR, XOR,dan NOT) dalam sistem komputer.</p>
+<h3>Peran ALU:</h3>
 -Operasi Aritmatika
 -Operasi Logika
 -Perbandingan dan Pemrosesan Data
