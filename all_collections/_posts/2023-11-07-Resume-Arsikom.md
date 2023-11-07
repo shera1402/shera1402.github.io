@@ -134,6 +134,6 @@ Tabel Kebenaran:
 suatu pernyataan. Di sini tabel kebenaran dapat diartikan sebagai table yang berisi 
 kombinasi-kombinasi variable masukan (input) yang menghasilkan keluaran (output) 
 yang logis.</p>
-<span style="display:block;text-align:center">![alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcourse-net.com%2Fblog%2Fgerbang-logika-adalah%2F&psig=AOvVaw0vxxc5I-hkiclIRnoEl0zo&ust=1699432199737000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiyrre8sYIDFQAAAAAdAAAAABAE)</span>
+
 
 
