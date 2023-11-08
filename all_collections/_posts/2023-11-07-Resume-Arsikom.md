@@ -6,9 +6,9 @@ comments: true
 ---
 
 ## Bab 1
-<p>CPU/Central Processing Unit adalah bagian terpenting dari sebuah komputer yang
+CPU/Central Processing Unit adalah bagian terpenting dari sebuah komputer yang
 bertanggung jawab untuk menjalankan instruksi-instruksi yang diberikan kepada
-komputer.</p>
+komputer.
 Komponen CPU
 <p>-Control Unit: Mengendalikan operasi dasar CPU dan mengarahkan aliran data dan
 instruksi dalam prosesor.</p>
