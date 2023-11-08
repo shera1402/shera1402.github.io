@@ -10,29 +10,22 @@ CPU/Central Processing Unit adalah bagian terpenting dari sebuah komputer yang
 bertanggung jawab untuk menjalankan instruksi-instruksi yang diberikan kepada
 komputer.
 Komponen CPU
-<p>-Control Unit: Mengendalikan operasi dasar CPU dan mengarahkan aliran data dan
-instruksi dalam prosesor.</p>
-<p>-Arithmetic and logic unit (ALU): Untuk melakukan operasi aritmetika dan operasi 
-logika berdasar instruksi yang ditentukan.</p>
-<p>-Register: Penyimpanan sementara yang digunakan untuk menyimpan data yang 
-sedang diproses atau hasil perhitungan sementara selama eksekusi instruksi 
-komputer.</p>
-<p>-CPU Interconnection: sistem koneksi dan bus yang menghubungkan komponen 
-internal CPU dengan bus-bus eksternal CPU.</p>
-Arithmetic Logic Unit
-<p>ALU (Arithmetic Logic Unit) adalah komponen penting dalam unit pemrosesan pusat 
-(CPU) pada komputer. ALU bertanggung jawab untuk melakukan operasi aritmatika 
-(seperti penjumlahan,pengurangan, perkalian, dan pembagian) serta operasi logika 
-(seperti AND, OR, XOR,dan NOT) dalam sistem komputer.</p>
-Peran ALU:
-<p>-Operasi Aritmatika</p>
-<p>-Operasi Logika</p>
-<p>-Perbandingan dan Pemrosesan Data</p>
-<p>-Operasi Bitwise</p>
-<p>-Penaganan Overflow dan Carry</p>
-Komponen ALU:
-<p>-Register</p>
-<p>-Pemilih(Multiplexer)</p>
+-Control Unit: Mengendalikan operasi dasar CPU dan mengarahkan aliran data dan instruksi dalam prosesor.
+-Arithmetic and logic unit (ALU): Untuk melakukan operasi aritmetika dan operasi logika berdasar instruksi yang ditentukan.
+-Register: Penyimpanan sementara yang digunakan untuk menyimpan data yang sedang diproses atau hasil perhitungan sementara selama eksekusi instruksi komputer.
+-CPU Interconnection: sistem koneksi dan bus yang menghubungkan komponen internal CPU dengan bus-bus eksternal Arithmetic Logic Unit
+### ALU (Arithmetic Logic Unit) adalah komponen penting dalam unit pemrosesan pusat 
+(CPU) pada komputer. ALU bertanggung jawab untuk melakukan operasi aritmatika (seperti penjumlahan,pengurangan, perkalian, dan pembagian) serta operasi logika 
+(seperti AND, OR, XOR,dan NOT) dalam sistem komputer.
+### Peran ALU:
+-Operasi Aritmatika
+-Operasi Logika
+-Perbandingan dan Pemrosesan Data
+-Operasi Bitwise
+-Penaganan Overflow dan Carry
+### Komponen ALU:
+-Register
+-Pemilih(Multiplexer)</p>
 <p>-Dekoder</p>
 <p>-Rangkaian Aritmatika</p>
 <p>-Rangkaian Logika</p>
@@ -84,18 +77,16 @@ mudah disimpan di register Accumulator. Kecepatan akses register Accumulator
 jauh lebih cepat dibandingkan dengan memori utama. Dalam banyak sistem modern, 
 ada berbagai jenis accumulator yang dapat digunakan untuk menyimpan hasil
 sementara.</p>
-<p>-Index Register
-Index Register di CPU komputer adalah register prosesor yang digunakan untuk
-memodifikasi Alamat operan selama menjalankan program.Register ini banyak 
-digunakan untuk melakukan operasi array atau vektor. Konten diambil dari register 
-indeks dan ditambahkan atau dikurangi ke beberapa Alamat langsung untuk 
-mendapatkan Alamat data yang efektif.</p>
-<p>-Instruction Register
+-Index Register
+
+Index Register di CPU komputer adalah register prosesor yang digunakan untuk memodifikasi Alamat operan selama menjalankan program.Register ini banyak digunakan untuk melakukan operasi array atau vektor. Konten diambil dari register indeks dan ditambahkan atau dikurangi ke beberapa Alamat langsung untuk mendapatkan Alamat data yang efektif.
+-Instruction Register
+
 Instruction register merupakan jenis lain dari register CPU yang digunakan untuk 
 menyimpan instruksi yang sedang dieksekusi atau yang akan didekodekan.Dalam 
 prosesor, register ini menyimpan setiap instruksi di dalamnya, dan kemudian dapat 
 dieksekusi oleh prosesor. Instruksi dapat dieksekusi dalam satu langkah atau dapat 
-dieksekusi dalam beberapa langkah.</p>
+dieksekusi dalam beberapa langkah.
 ## Bab 2
 Sejarah Komputer
 Komputer Generasi 1:
