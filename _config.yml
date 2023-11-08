@@ -1,12 +1,12 @@
-title: Ivan Afirmansyah
+title: Cecilia Putri
 markdown: kramdown
-url: "https://ivanafirmansyah.github.io"
+url: "https://CeciliaPutri131.github.io"
 baseurl: "/"
 
 # for atom feed
 author:
-  name: Ivan Afirmansyah
-  email: pannn369@gmail.com
+  name: Cecilia Putri
+  email: 
 
 plugins:
   - jemoji
