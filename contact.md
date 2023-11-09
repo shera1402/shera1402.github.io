@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-* Email: [cecilia putri kusumaningtyas](mailto:ceciliaputri2803@gmail.com)
+* Email: [ceciliaputri2803@gmail.com](mailto:ceciliaputri2803@gmail.com)
 
 
 
