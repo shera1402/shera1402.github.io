@@ -3,14 +3,14 @@ layout: page
 title: Contact
 ---
 
-* Email: [Ivan Afirmansyah](mailto:pannn369@gmail.com)
+* Email: [cecilia putri kusumaningtyas](mailto:ceciliaputri2803@gmail.com)
 
 
 
 
 ## Mailing Address
 
->DS.Balerejo.KEC.Kauman
+>DS.Kedungwaru.KEC.Kedungwaru
 >
 > Tulungagung
 >
@@ -20,4 +20,4 @@ title: Contact
 
 
 ## Social
-  1. Instagram:[@mz_pann](https://www.instagram.com/mz_pann/) 
+  1. Instagram:[@cptyas131](https://www.instagram.com/cptyas131/) 
