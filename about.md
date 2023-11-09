@@ -4,6 +4,8 @@ title: About
 ---
 
 <span style="display:block;text-align:center">![alt](assets/img/fotoku[1].jpg)</span>
-Hai Nama saya Cecilia Putri Kusumaningtyas dan saya sekarang merupakan mahasiswa dari Universitas Bhinneka PGRI Jurusan Informatika.
+Halo, saya Cecilia Putri Kusumaningtyas!!
 
-Blog ini merupakan tugas Mata Kuliah Arsitektur Komputer. Jadi, silahkan menikmati blog saya.
+Saya adalah seorang mahasiswa di Universitas Bhinneka PGRI dengan jurusan informatika. Blog ini dibuat untuk memenuhi tugas mata kuliah Arsitektur Sistem Komputer.
+
+Selamat datang di blog saya. Terimakasih telah berkunjung:)
