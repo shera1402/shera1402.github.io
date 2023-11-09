@@ -1,11 +1,11 @@
-title: Cecilia 
+title: Cecilia Putri
 markdown: kramdown
 url: "https://cece987.github.io"
 baseurl: "/"
 
 # for atom feed
 author:
-  name: Cecilia
+  name: Cecilia Putri
   email: 
 
 plugins:
