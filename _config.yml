@@ -1,12 +1,12 @@
 title: Cecilia Putri
 markdown: kramdown
-url: "https://cece987.github.io"
+url: "https://ceciliaputri131.github.io"
 baseurl: "/"
 
 # for atom feed
 author:
   name: Cecilia Putri
-  email: 
+  email: ceciliaputri2803@gmail.com
 
 plugins:
   - jemoji
