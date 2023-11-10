@@ -198,7 +198,7 @@ Tabel kebenaran adalah tabel yang digunakan untuk melihat nilai kebenaran dari s
 
 <span style="display:block;text-align:center">![alt](https://ceciliaputri131.github.io/assets/img/translitor[1].jpg)</span>
 
-# Bab 3
+# Bab 4
 
 ## Memory
 
@@ -206,44 +206,26 @@ Memory adalah perangkat atau sistem yang digunakan untuk menyimpan informasi unt
 
 ## Jenis Memory
 
-- Memory Read Only (ROM)
+- Memory Read Only (ROM): Tipe memori komputer yang berisi data yang tidak dapat diubah oleh pengguna. Data dalam ROM bersifat tetap dan digunakan untuk menyimpan firmware, instruksi komputer, dan data yang perlu ada selama perangkat hidup.
 
-tipe memori komputer yang berisi data yang tidak dapat diubah oleh pengguna. Data dalam ROM bersifat tetap dan digunakan untuk menyimpan firmware, instruksi komputer, dan data yang perlu ada selama perangkat hidup.
-
-- Memory Read/Write
-
-tipe memori komputer yang memungkinkan pengguna untuk membaca (mengambil 
+- Memory Read/Write: Tipe memori komputer yang memungkinkan pengguna untuk membaca (mengambil 
 data dari memori) dan menulis (menyimpan atau mengubah data ke dalam memori) sesuai kebutuhan. Memory R/W umumnya digunakan untuk penyimpanan data sementara (seperti RAM) yang memungkinkan komputer untuk bekerja dengan data secara dinamis selama operasi.
 
-- Static Memory 
+- Static Memory: Tipe memori komputer yang dapat menyimpan data tanpa memerlukan daya listrik berkelanjutan dan data yang disimpan bersifat tetap hingga diubah atau dihapus secara sengaja. Ini termasuk tipe memori seperti Static RAM (SRAM) dan non-volatile memory seperti Flash memory.
 
-tipe memori komputer yang dapat menyimpan data tanpa memerlukan daya listrik berkelanjutan dan data yang disimpan bersifat tetap hingga diubah atau dihapus secara sengaja. Ini termasuk tipe memori seperti Static 
-RAM (SRAM) dan non-volatile memory seperti Flash memory.
+- Dynamic Memory: Tipe memori yang digunakan untuk penyimpanan data yang dapat dibaca dan ditulis oleh perangkat lunak komputer. Memerlukan penyegaran berulang untuk mempertahankan data dan bersifat volatil, artinya data hilang ketika daya mati. Ini digunakan sebagai memori utama dalam komputer untuk penyimpanan sementara data yang aktif saat komputer beroperasi.
 
-- Dynamic Memory
+- Volatile: Suatu jenis memori atau data yang dapat hilang atau terhapus ketika daya listrik diputuskan atau perangkat dimatikan. Dengan kata lain, data dalam memori volatil akan lenyap saat daya mati. Contoh utama dari memori volatil adalah RAM (RandomAccess Memory) dalam komputer, yang kehilangan data yang tersimpan saat komputer dimatikan atau direstart.
 
-tipe memori yang digunakan untuk penyimpanan data yang dapat dibaca dan ditulis oleh perangkat lunak komputer. memerlukan penyegaran berulang untuk 
-mempertahankan data dan bersifat volatil, artinya data hilang ketika daya mati. Ini digunakan sebagai memori utama dalam komputer untuk penyimpanan sementara data yang aktif saat komputer beroperasi.
+- Non-volatile: Suatu komponen atau memori untuk menjaga data atau informasi yang tersimpan bahkan ketika daya listrik dimatikan. Data yang disimpan dalam media non-volatile akan tetap ada dan dapat diakses setelah komputer dimatikan atau restart.
 
-- Volatile
-
-suatu jenis memori atau data yang dapat hilang atau terhapus ketika daya listrik diputuskan atau perangkat dimatikan. Dengan kata lain, data dalam memori volatil akan lenyap saat daya mati. Contoh utama dari memori volatil adalah RAM (RandomAccess Memory) dalam komputer, yang kehilangan data yang tersimpan saat 
-komputer dimatikan atau direstart.
-
-- Non-volatile
-
-suatu komponen atau memori untuk menjaga data atau informasi yang tersimpan bahkan ketika daya listrik dimatikan. data yang disimpan dalam media non-volatile akan tetap ada dan dapat diakses setelah komputer dimatikan atau restart,
-Perkembangan Memory
+## Perkembangan Memory
 
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/memory.png)</span>
 
 ## Cara Kerja Memory
 
-Memori dalam konteks komputer adalah tempat penyimpanan data dan instruksi 
-yang diperlukan untuk operasi komputer. Terdapat beberapa jenis memori yang bekerja berbeda dalam komputer, seperti RAM, ROM, dan penyimpanan sekunder (seperti hard drive atau SSD).
-
-Cara kerja memori di komputer melibatkan proses pembacaan dan penulisan data. Ketika komputer memerlukan data atau instruksi, ia membaca data tersebut dari media penyimpanan yang sesuai ke RAM untuk digunakan dalam operasi saat ini. Data 
-dapat ditulis kembali ke media penyimpanan jika ada perubahan dalam data tersebut.
+Cara kerja memori di komputer melibatkan proses pembacaan dan penulisan data. Ketika komputer memerlukan data atau instruksi, ia membaca data tersebut dari media penyimpanan yang sesuai ke RAM untuk digunakan dalam operasi saat ini. Data dapat ditulis kembali ke media penyimpanan jika ada perubahan dalam data tersebut.
 
 ## Cara Optimalisasi Memory
 
@@ -267,11 +249,11 @@ dapat ditulis kembali ke media penyimpanan jika ada perubahan dalam data tersebu
 
 - Pemantauan Penggunaan Memori
 
-# Bab 4
+# BAB 5
 
 ## Data
 
-Data adalah fakta-fakta, angka, informasi,atau rekaman yang digunakan sebagai dasar untuk pengambilan keputusan,analisis, penelitian, atau tujuan lainnya. Data dapat berupa berbagai jenis, seperti teks, angka, gambar, audio, atau video,dan dapat mewakili berbagai jenis informasi.
+Data adalah fakta-fakta, angka, informasi, atau rekaman yang digunakan sebagai dasar untuk pengambilan keputusan, analisis, penelitian, atau tujuan lainnya. Data dapat berupa berbagai jenis, seperti teks, angka, gambar, audio, atau video, dan dapat mewakili berbagai jenis informasi.
 
 ## Data pada Komputer
 
@@ -279,15 +261,10 @@ Data adalah fakta-fakta, angka, informasi,atau rekaman yang digunakan sebagai da
 
 Data Numerik merupakan data yang berupa angka maupun bilangan, bisa dalam bentuk integer, float dan sebagainya.
 
-### Data Non Numerik 
-
-Data Non Numerik adalah data yang bukan berupa angka maupun bilangan. Contohnya adalah data teks, gambar dan sebagainya.
-
-### Data Numerik
-
 #### Sistem Decimal 
 
 Sistem desimal merupakan sistem bilangan yang digunakan sehari-hari.
+
 Desimal terdiri dari angka: 0,1,2,3,4,5,6,7,8,9.
 
 83 = (8x10) + 3
@@ -306,8 +283,7 @@ Sistem biner merupakan system bilangan yang terdiri dari angka 0 dan 1.
 
 - 8 = 1000
 
-Sistem biner memiliki base atau radix 2, jadi dapat disimpulkan sebagai
-berikut :
+Sistem biner memiliki base atau radix 2, jadi dapat disimpulkan sebagai berikut :
 
 Contoh berikut pada 4 bit
 
@@ -321,8 +297,8 @@ Contoh berikut pada 4 bit
 
 #### Integers
 
-Integers atau bilangan bulat merupakan bilangan yang terdiri dari
-nilai positif, negatif dan bukan berupa pecahan/desimal.
+Integers atau bilangan bulat merupakan bilangan yang terdiri dari nilai positif, negatif dan bukan berupa pecahan/desimal.
+
 Contoh bilangan bulat adalah = –5, 0, 8
 
 Pada pemrograman integers akan dinotasikan sebagai int dengan 8 bit data, maka nilai integers adalah sebagai berikut :
@@ -341,53 +317,35 @@ Pada pemrograman integers akan dinotasikan sebagai int dengan 8 bit data, maka n
 
 #### Bilangan Real 
 
-Bilangan real adalah bilangan yang terdapat pecahan atau desimal.Contoh dari bilangan real adalah 3.14, -0.05, dan sebagainya. Pada bahasa pemrograman bilang real di notasikan sebagai float dan double
+Bilangan real adalah bilangan yang terdapat pecahan atau desimal. Contoh dari bilangan real adalah 3.14, -0.05, dan sebagainya. Pada bahasa pemrograman bilang real di notasikan sebagai float dan double
 
 #### Bilangan Cacah 
 
 Bilangan cacah adalah bilang bulat tanpa nilai negatif.
 
-### Data Non-Numerik
+### Data Non Numerik 
 
-#### TEXT
+Data Non Numerik adalah data yang bukan berupa angka maupun bilangan. Contohnya adalah data teks, gambar dan sebagainya.
 
-data teks pada komputer mengacu pada cara teks atau informasi berbasis teks 
-direpresentasikan, disimpan,dan dikelola dalam sistem komputer. Representasi ini mencakup cara karakter, kata, kalimat, dan dokumen dalam bentuk teks direpresentasikan dalam format biner yang dapat dipahami dan diolah oleh komputer.
+#### Text
 
-metode representasi data teks pada komputer
+Data teks pada komputer mengacu pada cara teks atau informasi berbasis teks direpresentasikan, disimpan,dan dikelola dalam sistem komputer. Representasi ini mencakup cara karakter, kata, kalimat, dan dokumen dalam bentuk teks direpresentasikan dalam format biner yang dapat dipahami dan diolah oleh komputer.
 
-- Character Encoding
+Metode representasi data teks pada komputer
 
-Character encoding adalah metode dasar untuk merepresentasikan karakter teks 
-dalam bentuk kode numerik. Setiap karakter (termasuk huruf, angka, dan simbol) diberikan kode numerik yang unik.
+- Character Encoding: Character encoding adalah metode dasar untuk merepresentasikan karakter teks dalam bentuk kode numerik. Setiap karakter (termasuk huruf, angka, dan simbol) diberikan kode numerik yang unik.
 
-- Plain Text
+- Plain Text: Teks mentah atau plain text adalah representasi dasar teks di komputer. Ini adalah urutan karakter yang direpresentasikan menggunakan karakter encoding tertentu, seperti ASCII atau UTF-8. Teks mentah tidak memiliki pemformatan khusus dan tidak mengandung tag atau markup.
 
-Teks mentah atau plain text adalah representasi dasar teks di komputer. Ini adalah urutan karakter yang direpresentasikan menggunakan karakter encoding tertentu, seperti ASCII atau UTF-8. Teks mentah tidak memiliki pemformatan khusus dan tidak mengandung tag atau markup.
+- Markup Languages: Markup languages seperti HTML (Hypertext Markup Language) dan XML (eXtensibleMarkup Language) digunakan untuk merepresentasikan teks bersama dengan tag yang memberikan instruksi untuk pemformatan dan tampilan. Markup languages memungkinkan teks untuk dimunculkan dalam berbagai cara di web dan aplikasi.
 
-- Markup Languages
+- Word Processing Formats: Format dokumen pengolah kata seperti DOCX (Microsoft Word), ODT (OpenDocument Text), dan RTF (Rich Text Format) digunakan untuk merepresentasikan teks dengan pemformatan lanjutan, seperti huruf tebal, miring, dan daftar.
 
-Markup languages seperti HTML (Hypertext Markup Language) dan XML 
-(eXtensibleMarkup Language) digunakan untuk merepresentasikan teks bersama 
-dengan tag yang memberikan instruksi untuk pemformatan dan tampilan. Markup 
-languages memungkinkan teks untuk dimunculkan dalam berbagai cara di web dan aplikasi.
+- Plain Text Files: Teks mentah sering disimpan dalam file berformat .txt atau .csv. Ini adalah format dasar yang hanya berisi teks tanpa format atau struktur tambahan.
 
-- Word Processing Formats
+#### Image
 
-Format dokumen pengolah kata seperti DOCX (Microsoft Word), ODT
-(OpenDocument Text), dan RTF (Rich Text Format) digunakan untuk 
-merepresentasikan teks dengan pemformatan lanjutan, seperti huruf tebal, miring, dan daftar.
-
-- Plain Text Files
-
-Teks mentah sering disimpan dalam file berformat .txt atau .csv. Ini adalah format dasar yang hanya berisi teks tanpa format atau struktur tambahan.
-
-- Image
-
-Representasi Citra Digital, semua gambar yang bisa disimpan/diolah pada 
-komputer/piranti digital disebut dengan citra digital. Citra digital tersusun dari elemen‐elemen terkecil yang disebut Pixel (picture element).Banyaknya pixel pada sebuah 
-citra disebut dengan Resolusi. Biasanya resolusi dinyatakan dalam 2 cara, yaitu:dimensi panjang x lebar, misal: 800×600,1024×768, dll; Banyaknya pixel, misal: 
-2 Mega Pixel, 5 Mega Pixel,dll. 
+Representasi Citra Digital, semua gambar yang bisa disimpan/diolah pada komputer/piranti digital disebut dengan citra digital. Citra digital tersusun dari elemen‐elemen terkecil yang disebut Pixel (picture element). Banyaknya pixel pada sebuah citra disebut dengan Resolusi. Biasanya resolusi dinyatakan dalam 2 cara, yaitu: dimensi panjang x lebar, misal: 800×600,1024×768, dll; Banyaknya pixel, misal: 2 Mega Pixel, 5 Mega Pixel,dll. 
 
 Format bmp (bitmap) adalah format citra yang langsung memetakan intensitas RGB ke media penyimpanan dengan rincian setiap pixel:
 
@@ -401,27 +359,25 @@ Sehingga, 1 pixel citra dengan format bmp memerlukan alokasi sebesar 24 bit (3 B
 
 Format lain dari citra antara lain: jpg, gif, png,dsb. Umumnya memiliki ukuran yang lebih kecil dari bmp untuk citra yang sama. Hal ini disebabkan format selain bmp merupakan format yang telah mengalami kompresi.
 
-# Bab 5
+# BAB 6
 
 ## Bahasa Pemrograman
 
-Bahasa pemrograman adalah sebuah bahasa yang digunakan untuk menulis atau menyusun kode yang dapat diterjemahkan oleh komputer menjadi instruksi-instruksi yang dapat dieksekusi. Hal ini sama saja dengan menjadikan Bahasa pemrograman 
-sebagai cara yang bisa dipahami oleh komputer.
+Bahasa pemrograman adalah sebuah bahasa yang digunakan untuk menulis atau menyusun kode yang dapat diterjemahkan oleh komputer menjadi instruksi-instruksi yang dapat dieksekusi. Hal ini sama saja dengan menjadikan Bahasa pemrograman sebagai cara yang bisa dipahami oleh komputer.
 
-Bahasa pemrograman ada beberapa jenis antara lain : bahasa tingkat rendah, 
-bahasa mesin, Bahasa tingkat menengah dan Bahasa tingkat tinggi.
+Bahasa pemrograman ada beberapa jenis antara lain : bahasa tingkat rendah, bahasa mesin, bahasa tingkat menengah dan bahasa tingkat tinggi.
 
-### Fungsi Bahasa Pemrograman:
+### Fungsi Bahasa Pemrograman
 
-- Memudahkan Komunikasi Antara Komputer dan Pengguna
+- Memudahkan Komunikasi Antara Komputer dan Pengguna.
 
-- Membuat Aplikasi yang Kompleks
+- Membuat Aplikasi yang Kompleks.
 
-- Membuat Kode Reusable
+- Membuat Kode Reusable.
 
-- Mempercepat Pengembangan Software
+- Mempercepat Pengembangan Software.
 
-- Membuat Komputer Melakukan Banyak Tugas yang Berbeda
+- Membuat Komputer Melakukan Banyak Tugas yang Berbeda.
 
 ### Bahasa Mesin/Bahasa Assembly
 
@@ -429,8 +385,7 @@ Bahasa mesin adalah bentuk Bahasa pemrograman yang paling rendah dalam hal tingk
 
 ### Bahasa Tingkat Rendah 
 
-Bahasa ini memberikan control yang lebih langsung atas perangkat keras 
-komputer.Instruksi lebih dekat dengan bahasa mesin, tetapi lebih mudah dipahami oleh manusia. Contoh: C dan C++.
+Bahasa ini memberikan control yang lebih langsung atas perangkat keras komputer.Instruksi lebih dekat dengan bahasa mesin, tetapi lebih mudah dipahami oleh manusia. Contoh: C dan C++.
 
 ### Bahasa Tingkat Menengah
 
@@ -438,10 +393,9 @@ Bahasa ini menawarkan tingkat abstraksi yang lebih tinggi dibandingkan bahasa ti
 
 ### Bahasa Tingkat Tinggi
 
-Bahasa pemrograman yang sangat jauh dari bahasa mesin atau bahasa assembly 
-adalah bahasa pemrograman tingkat tinggi atau high-level language. Bahasa ini sangat mudah dipahami oleh manusia dan lebih banyak digunakan untuk aplikasi web, aplikasi mobile, atau aplikasi data science. Contoh bahasa tingkat tinggi adalah Python, Ruby, atau JavaScript.
+Bahasa pemrograman yang sangat jauh dari bahasa mesin atau bahasa assembly adalah bahasa pemrograman tingkat tinggi atau high-level language. Bahasa ini sangat mudah dipahami oleh manusia dan lebih banyak digunakan untuk aplikasi web, aplikasi mobile, atau aplikasi data science. Contoh: Python, Ruby, atau JavaScript.
 
-# Bab 6
+# BAB 7
 
 ## Translator
 
