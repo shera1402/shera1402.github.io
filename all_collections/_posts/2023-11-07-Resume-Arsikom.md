@@ -23,7 +23,26 @@ Arsitektur sistem komputer adalah konsep perencanaan dan struktur pengoperasiand
 
 - System Design: Mencakup semua komponen perangkat keras dalam sistem, termasuk pemroses data selain CPU, seperti unit pemrosesan grafis dan akses memori langsung. Juga mencakup memory controller, data path, dan hal-hal lain seperti multiprocessingdan virtualization.
 
-<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/compiler.png)</span>
+### Struktur dan Fungsi Komputer
+
+<span style="display:block;text-align:center">![alt](https://ceciliaputri131.github.io/assets/img/strukturarsikom.jpg)</span>
+
+- Input Device: Perangkat keras komputer yang berfungsi sebagai alat untuk memasukkan data atau perintah ke dalam komputer. Contoh keyboard, barcodescanner, mouse, mikrofon
+
+- Input Output Port/IO Port: Digunakan untuk menerima ataupun mengirim data keluar sistem.
+
+- Central Processing Unit/CPU: Jika CPU diibaratkan bagian tubuh manusia, maka itu adalah otak. Hardware ini memproses semua input yang diterima ke dalam komputer, sehingga output yang dihasilkan dapat sesuai dengan keinginan orang tersebut. Jika tidak ada CPU komputer tidak dapat memproses data yang diinput sebelumnya.
+
+- Memori: Merupakan media penyimpanan pada komputer. Semua program komputer dan data disimpan di dalam memori.
+
+- Output Device: Perangkat keras komputer yang berfungsi untuk menampilkan keluaran sebagai hasil pengelolaan data. Dapat berupa hardcopy (ke kertas) softcopy (ke monitor) ataupun berupa suara.
+
+- Data Bus: Jalur penghubung alat pada komputer yang digunakan sebagai media dalam proses melewatkan data dalam suatu proses.
+
+- Address Bus: Digunakan untuk menandakan lokasi sumber ataupun tujuan pada proses transfer data.
+
+- Control Bus: Digunakan untuk mensinkronkan proses penerimaan dan pengirimandata.
+
 # BAB 2
 
 ## CPU (Central Processing Unit)
@@ -101,10 +120,7 @@ Register adalah tempat menyimpan instruksi, alamat penyimpanan, atau jenis data 
 
 - Index Register: Register prosesor yang digunakan untuk memodifikasi alamat operan selama menjalankan program.
 
-- Instruction Register: 
-
-Instruction register merupakan jenis lain dari register CPU yang digunakan untuk menyimpan instruksi yang sedang dieksekusi atau yang akan didekodekan. Dalam prosesor, register ini menyimpan setiap instruksi di dalamnya, dan kemudian dapat dieksekusi oleh prosesor. Instruksi dapat dieksekusi dalam satu langkah atau dapat 
-dieksekusi dalam beberapa langkah.
+- Instruction Register: Merupakan jenis lain dari register CPU yang digunakan untuk menyimpan instruksi yang sedang dieksekusi atau yang akan didekodekan.
 
 # Bab 2
 
@@ -112,13 +128,13 @@ dieksekusi dalam beberapa langkah.
 
 ### Komputer Generasi 1
 
-- Ditemukan pada tahun 1940-1956
+- Ditemukan pada tahun 1940-1956.
 
-- Menggunakan Vacuum Tube sebagai komponen digital
+- Menggunakan Vacuum Tube sebagai komponen digital.
 
-- Bahasa yang digunakan bahasamesin(0 dan 1)
+- Bahasa yang digunakan bahasamesin(0 dan 1).
 
-- Membutuhkan ruangan yang luas
+- Membutuhkan ruangan yang luas.
 
 ### Komputer Generasi 2
 
