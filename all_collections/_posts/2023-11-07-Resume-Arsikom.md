@@ -194,6 +194,10 @@ Tabel kebenaran adalah tabel yang digunakan untuk melihat nilai kebenaran dari s
 
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/vacum.png)</span>
 
+<span style="display:block;text-align:center">![alt](https://ceciliaputri131.github.io/assets/img/mikroprosesor[1].jpg)</span>
+
+<span style="display:block;text-align:center">![alt](https://ceciliaputri131.github.io/assets/img/translitor[1].jpg)</span>
+
 # Bab 3
 
 ## Memory
