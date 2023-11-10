@@ -432,6 +432,7 @@ Interpreter adalah jenis translator yang membaca dan mengeksekusi kode sumber ba
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/interpreter.png)</span>
 
 ## Linker
+
 Linker bertugas untuk menggabungkan berbagai library external dengan object file untuk menghasilkan sebuah program.
 
-<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/linker.png)</span>
+<span style="display:block;text-align:center">![alt](https://ceciliaputri131.github.io/assets/img/linker.jpg)</span>
