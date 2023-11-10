@@ -399,20 +399,29 @@ Bahasa pemrograman yang sangat jauh dari bahasa mesin atau bahasa assembly adala
 
 ## Translator
 
-Dalam konteks bahasa pemrograman, "translator" biasanya merujuk kepada program atau perangkat lunak yang mengubah kode sumber dari satu bahasa pemrograman ke bahasa pemrograman lain. Ini biasanya dilakukan untuk beberapa tujuan seperti portabilitas,optimisasi, atau integrasi.
-
-Ada 2 jenis translator utama pada bahasa pemrograman, yaitu Compiler dan Interpreter.
+Translator adalah program atau perangkat lunak yang mengubah kode sumber dari satu bahasa pemrograman ke bahasa pemrograman yang lain dengan tujuan untuk portabilitas, optimisasi, atau integrasi. Ada 2 jenis translator utama pada bahsa pemrograman, yaitu Compiler dan Interpreter.
 
 ### Compiler
-Compiler adalah jenis translator yang menerjemahkan seluruh kode sumber dalamsatu kali proses ke dalam bahasa mesin atau kode antara (intermediate code).
 
-Compiler menghasilkan file biner atau kode antara yang dapat dieksekusi secara langsung oleh komputer.
-
-Contoh bahasa yang menggunakan compiler adalah C, C++, dan Ada.
+Compiler adalah jenis translator yang menerjemahkan seluruh kode sumber dalam 1x proses ke dalam bahasa mesin atau kode antara (intermediate code). Compiler menghasilkan file biner atau kode antara yang dapat dieksekusi secara langsung oleh komputer. Contoh bahasa yang menggunakan compiler adalh C, C++, dan Ada.
 
 #### Fase Pada Compiler
 
-<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/compiler.png)</span>
+##### Fase Analisis
+
+- Lexical analyzer berfungsi untuk membagi program dalam bentuk “token”.
+
+- Syntax analyzerI berfungsi untuk mengenali “kalimat” dalam program menggunakan sintaks bahasa.
+
+- Semantic analyzer berfungsi untuk memeriksa semantik statis dari setiap konstruksi.
+
+- Intermediate code generator  berfungsi untuk menghasilkan kode “abstrak”.
+
+##### Fase Sintesis
+
+- Code optimizer  berfungsi untuk mengoptimasi kode abstrak yang dihasilkan intermediate code generator.
+
+- Code generator berfungsi untuk menerjemahkan kode dari intermediate code generator  menjadi instruksi mesin yang spesifik.
 
 ### Interpreter 
 
@@ -423,6 +432,6 @@ Interpreter adalah jenis translator yang membaca dan mengeksekusi kode sumber ba
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/interpreter.png)</span>
 
 ## Linker
-Linker adalah bagian dari proses kompilasi dalam pengembangan perangkat lunak yang bertanggung jawab untuk menggabungkan berbagai modul kode sumber menjadi sebuah program eksekusi yang dapat dijalankan
+Linker bertugas untuk menggabungkan berbagai library external dengan object file untuk menghasilkan sebuah program.
 
 <span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/linker.png)</span>
