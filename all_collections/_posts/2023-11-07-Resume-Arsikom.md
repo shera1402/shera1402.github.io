@@ -7,99 +7,90 @@ comments: true
 
 # Bab 1
 
+## Arsitektur Sistem Komputer
+
+Arsitektur sistem komputer adalah konsep perencanaan dan struktur pengoperasiandasar sistem komputer. Arsitektur sistem komputer adalah ilmu yang menghubungkanberbagai macam komponen perangkat keras (hardware) untuk menciptakan komputer yang memenuhi kebutuhan operasional, kinerja dan tujuan finansial.
+
+### Jenis-Jenis Arsitektur Sistem Komputer
+
+
+
 ## CPU (Central Processing Unit)
 
-CPU adalah bagian terpenting dari sebuah komputer yang bertanggung jawab untuk menjalankan instruksi-instruksi yang diberikan kepada komputer.
+CPU adalah otak dari komputer yang bertanggungjawab untuk menjalankan instruksi-instruksi dan mengolah data yang diperintahkan oleh pengguna.
 
-### Komponen CPU
+Komponen CPU terdiri dari:
 
-- Control Unit: Mengendalikan operasi dasar CPU dan mengarahkan aliran data dan instruksi dalam prosesor.
+- Control Unit: Untuk mengontrol pengoperasian CPU dan komputer.
 
-- Arithmetic and logic unit (ALU): Untuk melakukan operasi aritmetika dan operasi logika berdasar instruksi yang ditentukan.
+- Arithmetic and Logic Unit: Untuk melakukan fumgsi pemrosesan data komputer.
 
-- Register: Penyimpanan sementara yang digunakan untuk menyimpan data yang sedang diproses atau hasil perhitungan sementara selama eksekusi instruksi komputer.
+- Register: Menyediakan penyimpanan internal ke CPU.
 
-- CPU Interconnection: sistem koneksi dan bus yang menghubungkan komponen internal CPU dengan bus-bus eksternal Arithmetic Logic Unit
+- CPU Interconnection: Beberapa mekanisme yang menyediakan komunikasi antara unit kontrol, ALU, dan register.
 
-### ALU (Arithmetic Logic Unit) 
 
-ALU (Arithmetic Logic Unit) adalah komponen penting dalam unit pemrosesan pusat (CPU) pada komputer. ALU bertanggung jawab untuk melakukan operasi aritmatika (seperti penjumlahan,pengurangan, perkalian, dan pembagian) serta operasi logika 
-(seperti AND, OR, XOR,dan NOT) dalam sistem komputer.
+## ALU (Arithmetic Logic Unit) 
 
-#### Peran ALU
+ALU (Arithmetic Logic Unit) adalah komponen penting dalam unit pemrosesan pusat (CPU) pada komputer yang bertanggung jawab untuk melakukan operasi aritmatika (seperti penjumlahan,pengurangan, perkalian, dan pembagian) serta operasi logika (seperti AND, OR, XOR,dan NOT) dalam sistem komputer.
 
-- Operasi Aritmatika
+### Peran ALU
 
-- Operasi Logika
+- Operasi aritmatika : ALU dapat melakukan operasi aritmatika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
 
-- Perbandingan dan Pemrosesan Data
+- Operasi logika : ALU digunakan untuk memanipulasi data biner atau bit-bit data.
 
-- Operasi Bitwise
+- Operasi bitwise : ALU juga dapat melakukan operasi bitwise pada data. Operasi bitwise memanipulasi bit-bit individu dalam suatu nilai.
 
-- Penaganan Overflow dan Carry
+- Perbandingan dan pemrosesan data : : ALU digunakan untuk membandingkan data dalam CPU.
 
-#### Komponen ALU
+- Penanganan Overflow dan Carry: ALU bertanggung jawab untuk mendeteksi dan mengatasi situasi overflow (melebihi batas maksimum yang dapat diwakili oleh bit) dalam operasi aritmatika dan carry (nilai yang harus dibawa atau ditambahkan ke bit berikutnya) dalam operasi penjumlahan.
 
-- Register
+### Komponen ALU
 
-- Pemilih(Multiplexer)
+- Register: Register adalah komponen yang digunakan untuk menyimpan sementara data yang akan dioperasikan oleh ALU.
 
-- Dekoder
+- Pemilih (Multiplexer): Pemilih adalah komponen yang memungkinkan ALU memilih input yang tepat untuk operasi yang akan dilakukan.
 
-- Rangkaian Aritmatika
+- Dekoder: Dekoder mengubah kode operasi yang diberikan menjadi sinyal-sinyal kendali yang diperlukan untuk melakukan operasi yang sesuai.
 
-- Rangkaian Logika
+- Rangkaian Aritmatika: Rangkaian aritmatika dalam ALU melibatkan penjumlahan, pengurangan, perkalian, pembagian, dan operasi aritmatika lainnya.
 
-- Pembanding(Comparator)
+- Rangkaian Logika: Rangkaian logika dalam ALU melibatkan operasi logika seperti AND, OR, XOR, dan NOT.
 
-- Rangkaian penanganan Overflow dan Carry
+- Pembanding (Comparator): Pembanding adalah komponen yang digunakan untuk membandingkan dua nilai dan menghasilkan sinyal yang menunjukkan hasil perbandingan (misalnya, lebih besar, lebih kecil, atau sama).
 
-- Bus Data(Jalur Komunikasi)
+- Rangkaian Penanganan Overflow dan Carry: Rangkaian ini mendeteksi dan menangani situasi di mana operasi aritmatika menghasilkan overflow (melebihi kapasitas bit) atau carry (nilai yang harus dibawa atau ditambahkan ke bit berikutnya) yang diperlukan dalam operasi penjumlahan.
 
-### Register
+- Bus Data: Bus data adalah jalur komunikasi yang digunakan untuk mentransfer data antara komponen-komponen dalam ALU, seperti register, pemilih, dan rangkaian aritmatika/logika.
 
-Register adalah salah satu dari sekumpulan kecil tempat penyimpanan data yang merupakan bagian dari prosesor komputer. Register dapat menyimpan instruksi, alamat penyimpanan, atau jenis data apapun (seperti urutan bit atau 
-karakterindividual).
+## Register
 
-#### Operasi Register
+Register adalah tempat menyimpan instruksi, alamat penyimpanan, atau jenis data apa pun (seperti urutan bit atau karakter individual).
 
-- Fetch: Operasi Fetch digunakan untuk mengambil instruksi yang diberikan oleh pengguna.
+### Operasi Register
 
-- Decode: Operasi Decode digunakan untuk menafsirkan instruksi.
+- Fetch: digunakan untuk mengambil instruksi yang diberikan oleh pengguna.
+
+- Decode: digunakan untuk menafsirkan instruksi.
 
 - Execute: Operasi Execute dilakukan oleh CPU. Output yang dihasilkan oleh CPU kemudian disimpan ke dalam memori dan setelah itu ditampilkan di layar pengguna.
 
-#### Jenis-Jenis Register
+### Jenis-Jenis Register
 
-- MAR(Memory Address Register)
+- MAR(Memory Address Register): Untuk menyimpan alamat memori dari data dan instruksi.
 
-Register ini menyimpan alamat memori dari data dan instruksi. Register ini 
-digunakan untuk mengakses data dan instruksi dari memoriselama fase eksekusi suatu instruksi.
+- MDR(Memory Data Register): Berisi data yang akan disimpan di penyimpanan (misal RAM), atau data setelah diambil dari penyimpanan komputer.
 
-- MDR(Memory Data Register)
+- MBR(Memory Buffer Register): Untuk meyimpan informasi dan data yang dapat dibaca atau ditulis dalam memori komputer.
 
-MDR adalah register unit kontrol komputer yang berisi data yang akan disimpan di penyimpanan computer (misalnya RAM), atau data setelah diambil dari penyimpanan komputer.Register ini bertindak seperti buffer dan menyimpan apa pun yang disalin dari memori yang siap digunakan oleh prosesor. MDR menyimpan informasi sebelum masuk ke decoder.
+- PC(Program Counter): Digunakan untuk menunjukkan posisi saat ini dari urutan program dalam sistem komputer.
 
-- MBR(Memory Buffer Register)
+- Accumulator: Jenis lain dari register CPU yang banyak digunakan untuk menyimpan logika atau hasil sementara.
 
-Memory Buffer Register digunakan untukmenyimpan informasi dan data yang dapat dibaca atau ditulis dalam memori komputer.Fungsi utama MBR adalah untuk 
-menyimpan berbagai jenis instruksi komputer dan data yang dapat ditransfer antarmemori komputer. Register MBR adalah register terkait memori utama untuk prosesor yang ada di unit pemrosesan karena register ini mampu melakukan operasi terkait memori dengan sangat cepat.
+- Index Register: Register prosesor yang digunakan untuk memodifikasi alamat operan selama menjalankan program.
 
-- PC(Program Counter)
-
-Nama lain dari register Program Counter adalah Instruction Address Register (IAR) atau IC (instruction counter).Program Counter digunakan untuk menunjukkan posisi saat ini dari urutan program dalam sistem komputer.Ketika instruksi diambil 
-dari memori, nilai Program Counter bertambah satu dan menunjuk ke instruksi berikutnya yang perlu dieksekusi oleh prosesor CPU. Program Counter digunakan untuk menyimpan alamat instruksi langsung yang perlu dieksekusi selanjutnya.
-
-- Accumulator
-
-Register Accumulator memiliki peran yang sangat penting karena jika register ini tidak ada, maka semua hasil sementara yang perlu disimpan dalam memori utama dapat menambah overhead pada memori. Hal ini karena operasi baca dan tulis yang tidak perlu akan meningkat. Hasil sementara yang diperoleh dari CPU dapat dengan 
-mudah disimpan di register Accumulator. Kecepatan akses register Accumulator jauh lebih cepat dibandingkan dengan memori utama. Dalam banyak sistem modern, ada berbagai jenis accumulator yang dapat digunakan untuk menyimpan hasil sementara.
-
-- Index Register
-
-Index Register di CPU komputer adalah register prosesor yang digunakan untuk memodifikasi Alamat operan selama menjalankan program.Register ini banyak digunakan untuk melakukan operasi array atau vektor. Konten diambil dari register indeks dan ditambahkan atau dikurangi ke beberapa Alamat langsung untuk mendapatkan Alamat data yang efektif.
-
-- Instruction Register
+- Instruction Register: 
 
 Instruction register merupakan jenis lain dari register CPU yang digunakan untuk menyimpan instruksi yang sedang dieksekusi atau yang akan didekodekan. Dalam prosesor, register ini menyimpan setiap instruksi di dalamnya, dan kemudian dapat dieksekusi oleh prosesor. Instruksi dapat dieksekusi dalam satu langkah atau dapat 
 dieksekusi dalam beberapa langkah.
