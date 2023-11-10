@@ -5,7 +5,7 @@ date: 2023-11-07
 comments: true
 ---
 
-# Bab 1
+# BAB 1
 
 ## Arsitektur Sistem Komputer
 
@@ -13,7 +13,18 @@ Arsitektur sistem komputer adalah konsep perencanaan dan struktur pengoperasiand
 
 ### Jenis-Jenis Arsitektur Sistem Komputer
 
+- Von-Neumann Architecture: Dalam arsitektur ini terdapat bus (bus alamat/busdata/bus kontrol) yang digunakan untuk menjalankan instruksi dan eksekusi kode data. Perangkat input mengambil data atau instruksi dan CPU melakukan satu operasi padasatu waktu, baik mengambil data atau instruksi masuk/keluar dari memori. Setelah operasi selesai, dikirim ke perangkat output. CU dan ALU untuk memproses fungsi- fungsi tersebut terletak di unit pusat CPU.
 
+- Harvard Architecture: Menyimpan instruksi dan data dalam memori terpisah, dan prosesor mengakses memori tersebut melalui bus terpisah. Prosesor terhubungke'memori instruksi' menggunakan kumpulan alamat dan bus data khusus, dan terhubungke 'memori data' menggunakan bus alamat dan data yang berbeda.
+
+- Instruction Set Architecture (ISA): Arsitektur ini terdiri dari dua set instruksi, yaitu RISC(Reduced Instruction Set Computer) dan CISC (Complex Instruction Set Computer). Arsitektur ini memungkinkan pengembangan mikroarsitektur dan mengimplementasikan ISA sebagai sistem eksklusif dengan peningkatan efisiensi dankemampuan untuk menjalankan perangkat lunak pada generasi eksekusi sebelumnya.
+
+- Micro-architecture: Mikroarsitektur bekerja dengan cara tertentu. Ia membaca instruksi dan melakukan decoding yaitu proses mencari data paralel, kemudianmemproses instruksi dan menghasilkan output. Arsitektur ini digunakan pada mikroprosesor dan mikrokontroler.
+
+- System Design: Mencakup semua komponen perangkat keras dalam sistem, termasuk pemroses data selain CPU, seperti unit pemrosesan grafis dan akses memori langsung. Juga mencakup memory controller, data path, dan hal-hal lain seperti multiprocessingdan virtualization.
+
+<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/compiler.png)</span>
+# BAB 2
 
 ## CPU (Central Processing Unit)
 
