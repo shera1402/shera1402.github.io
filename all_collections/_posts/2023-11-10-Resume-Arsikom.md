@@ -66,13 +66,13 @@ ALU (Arithmetic Logic Unit) adalah komponen penting dalam unit pemrosesan pusat 
 
 ### Peran ALU
 
-- Operasi aritmatika : ALU dapat melakukan operasi aritmatika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
+- Operasi aritmatika: ALU dapat melakukan operasi aritmatika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
 
-- Operasi logika : ALU digunakan untuk memanipulasi data biner atau bit-bit data.
+- Operasi logika: ALU digunakan untuk memanipulasi data biner atau bit-bit data.
 
-- Operasi bitwise : ALU juga dapat melakukan operasi bitwise pada data. Operasi bitwise memanipulasi bit-bit individu dalam suatu nilai.
+- Operasi bitwise: ALU juga dapat melakukan operasi bitwise pada data. Operasi bitwise memanipulasi bit-bit individu dalam suatu nilai.
 
-- Perbandingan dan pemrosesan data : ALU digunakan untuk membandingkan data dalam CPU.
+- Perbandingan dan pemrosesan data: ALU digunakan untuk membandingkan data dalam CPU.
 
 - Penanganan Overflow dan Carry: ALU bertanggung jawab untuk mendeteksi dan mengatasi situasi overflow (melebihi batas maksimum yang dapat diwakili oleh bit) dalam operasi aritmatika dan carry (nilai yang harus dibawa atau ditambahkan ke bit berikutnya) dalam operasi penjumlahan.
 
