@@ -122,7 +122,7 @@ Register adalah tempat menyimpan instruksi, alamat penyimpanan, atau jenis data 
 
 - Instruction Register: Merupakan jenis lain dari register CPU yang digunakan untuk menyimpan instruksi yang sedang dieksekusi atau yang akan didekodekan.
 
-# Bab 2
+# BAB 3
 
 ## Sejarah Komputer
 
@@ -138,43 +138,46 @@ Register adalah tempat menyimpan instruksi, alamat penyimpanan, atau jenis data 
 
 ### Komputer Generasi 2
 
-- Digunakan antara tahun 1956-1963
+- Digunakan antara tahun 1956-1963.
 
-- Menggunakan Transistor sebagai komponen digitalnya
+- Menggunakan Transistor sebagai komponen digitalnya.
 
-- Bahasa yang digunakan Bahasa assembly
+- Bahasa yang digunakan Bahasa assembly.
 
-- Ukuran tidak sebesar generasi 1
+- Ukuran tidak sebesar generasi 1.
 
 ### Komputer Generasi 3
 
-- Digunakan tahun 1964-1971
+- Digunakan tahun 1964-1971.
 
-- Menggunakan IC (Integrated Circuits) sebagai komponen digital
+- Menggunakan IC (Integrated Circuits) sebagai komponen digital.
 
-- Ukuran lebih kecil dari generasi 2
+- Ukuran lebih kecil dari generasi 2.
 
 ### Komputer Generasi 4
 
-- Digunakan pada tahun 1971-sekarang
+- Digunakan pada tahun 1971-sekarang.
 
-- Menggunakan Mikroprosesor sebagai komponen digital
+- Menggunakan Mikroprosesor sebagai komponen digital.
 
-- Sudah terdapat layar monitor yang dapat menampilkan GUI
+- Sudah terdapat layar monitor yang dapat menampilkan GUI.
 
-- Ukuran bervariasi
+- Ukuran bervariasi.
 
 ### Komputer Generasi Selanjutnya 
 
-- Berupa cloud computing dan AI
+- Sekarang dan generasi selanjutnya.
 
-<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/vacum.png)</span>
+- Berupa cloud computing dan AI.
+
 
 ## Logic Gate
 
-Gerbang logika atau logic gates adalah proses pengolahan input bilangan biner
-dengan teori matematika boolean. Logic gate ini direpresentasikanmenggunakan 
-tabel kebenaran. Jika memiliki nilai benar (true) akan ditunjukan dengan angka “1”. Sebaliknya, jika memiliki nilai salah (false) akan ditunjukan dengan angka “0”.
+Gerbang logika atau logic gates adalah proses pengolahan input bilangan biner dengan teori matematika boolean.
+
+Logic gate ini direpresentasikan menggunakan tabel kebenaran. Jika memiliki nilai benar (true) akan ditunjukan dengan angka “1”. Sebaliknya, jika memiliki nilai salah (false) akan ditunjukan dengan angka “0”.
+
+<span style="display:block;text-align:center">![alt](https://ceciliaputri131.github.io/assets/img/logicgate[1].jpg)</span>
 
 ### Fungsi Gerbang Logika
 
@@ -185,7 +188,11 @@ membentuk sirkuit digital yang terintegrasi. Kebanyakan logic gate menggunakan b
 
 Tabel kebenaran adalah tabel yang digunakan untuk melihat nilai kebenaran dari suatu pernyataan. Di sini tabel kebenaran dapat diartikan sebagai table yang berisi kombinasi-kombinasi variable masukan (input) yang menghasilkan keluaran (output) yang logis.
 
-<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/gerbang.png)</span>
+<span style="display:block;text-align:center">![alt](https://ceciliaputri131.github.io/assets/img/tabelkebenaran[1].png)</span>
+
+## Transistor dan Semikonduktor
+
+<span style="display:block;text-align:center">![alt](https://ivanafirmansyah.github.io/assets/img/vacum.png)</span>
 
 # Bab 3
 
