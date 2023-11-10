@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resume Arsikom
-date: 2023-11-07
+date: 2023-11-10
 comments: true
 ---
 
