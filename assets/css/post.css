@@ -9,6 +9,11 @@
   --gray-6: #111111;
   --white-1: #eeeeee;
   --white-2: #a9abb3;
+  --ungu-1: #eb7aff;
+  --ungu-2: #d35de8;
+  --ungu-3: #ba44cf;
+  --ungu-4: #8b209e;
+  --ungu-5: #660d75;
 }
 * {
   font-family: inherit;
@@ -25,10 +30,10 @@
 html,
 body {
   color: var(--white-2);
-  background-color: var(--gray-6);
+  background-color: var(--ungu-5);
   font-family: "JetBrains Mono", monospace;
   line-height: 2rem;
-  background-color: var(--gray-5);
+  background-color: var(--ungu-4);
 }
 .content a {
   color: white;
@@ -78,7 +83,7 @@ nav {
 .categories .category {
   margin: 0 0.5rem 0 0;
   display: block;
-  color: var(--gray-4);
+  color: var(--ungu-3);
   background: var(--white-2);
   border-radius: 15px;
   font-size: 0.7rem;
@@ -152,12 +157,12 @@ nav {
   border-collapse: collapse;
 }
 .content table th {
-  background-color: var(--gray-3);
+  background-color: var(--ungu-2);
   color: var(--white-2);
-  border: 1px solid var(--gray-5);
+  border: 1px solid var(--ungu-4);
 }
 .content table * {
-  border: 1px solid var(--gray-3);
+  border: 1px solid var(--ungu-2);
   padding: 0.2rem;
 }
 .content img {
@@ -174,7 +179,7 @@ nav {
 }
 
 .content pre {
-  background: var(--gray-3) !important;
+  background: var(--ungu-2) !important;
   padding: 1rem 2rem;
   margin-bottom: 1.75rem;
 }
@@ -183,7 +188,7 @@ nav {
   padding: 3px 5px;
   color: var(--white-2);
   white-space: pre;
-  background-color: var(--gray-3);
+  background-color: var(--ungu-2);
 }
 
 /* lbox */
