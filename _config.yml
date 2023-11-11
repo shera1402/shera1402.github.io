@@ -1,12 +1,12 @@
-title: Cecilia Putri
+title: Septyanto Rangga
 markdown: kramdown
-url: "https://ceciliaputri131.github.io"
+url: "https://shera1402.github.io"
 baseurl: "/"
 
 # for atom feed
 author:
-  name: Cecilia Putri
-  email: ceciliaputri2803@gmail.com
+  name: Septyanto Rangga
+  email: srprdtion1402@gmail.com
 
 plugins:
   - jemoji
