@@ -5,10 +5,10 @@
   --gray-2: #32353a;
   --gray-3: #25282c;
   --gray-4: #151618;
-  --gray-5: #151618;
-  --gray-6: #111111;
+  --gray-5: #111111;
   --white-1: #eeeeee;
   --white-2: #a9abb3;
+  --white-3: #ffffff;
   --ungu-1: #eb7aff;
   --ungu-2: #d35de8;
   --ungu-3: #ba44cf;
@@ -84,7 +84,7 @@ nav {
   margin: 0 0.5rem 0 0;
   display: block;
   color: var(--ungu-3);
-  background: var(--white-2);
+  background: var(--white-3);
   border-radius: 15px;
   font-size: 0.7rem;
   padding: 0 0.8rem;
@@ -132,7 +132,7 @@ nav {
   margin-bottom: 1.75rem;
   font-style: italic;
   font-weight: 100;
-  border-left: 0.3rem solid var(--white-2);
+  border-left: 0.3rem solid var(--white-3);
 }
 .content strong {
   font-weight: bold;
@@ -158,7 +158,7 @@ nav {
 }
 .content table th {
   background-color: var(--ungu-2);
-  color: var(--white-2);
+  color: var(--white-3);
   border: 1px solid var(--ungu-4);
 }
 .content table * {
@@ -186,7 +186,7 @@ nav {
 
 .content code {
   padding: 3px 5px;
-  color: var(--white-2);
+  color: var(--white-3);
   white-space: pre;
   background-color: var(--ungu-2);
 }
