@@ -97,12 +97,12 @@ main {
   transition: all 0.2s ease-in-out;
 }
 a.next {
-  color: cyan;
-  border-bottom: 1px solid cyan;
+  color: white;
+  border-bottom: 1px solid white;
 }
 a.previous {
-  color: cyan;
-  border-bottom: 1px solid cyan;
+  color: white;
+  border-bottom: 1px solid white;
 }
 
 
