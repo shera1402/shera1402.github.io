@@ -31,8 +31,8 @@ body {
   background-color: var(--gray-5);
 }
 .content a {
-  color: cyan;
-  border-bottom: 1px solid cyan;
+  color: white;
+  border-bottom: 1px solid white;
 }
 header {
   padding: 2rem 0 4rem 0;
