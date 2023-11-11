@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-* Email: [ceciliaputri2803@gmail.com](mailto:ceciliaputri2803@gmail.com)
+* Email: [srprdtion1402@gmail.com](mailto:srprdtion1402@gmail.com)
 
 
 
@@ -20,4 +20,4 @@ title: Contact
 
 
 ## Social
-  1. Instagram:[@cptyas131](https://www.instagram.com/cptyas131/) 
+  1. Instagram:
