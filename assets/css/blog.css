@@ -8,6 +8,7 @@
   --gray-5: #111111;
   --white-1: #eeeeee;
   --white-2: #a9abb3;
+  --white-3: #ffffff;
   --ungu-1: #eb7aff;
   --ungu-2: #d35de8;
   --ungu-3: #ba44cf;
@@ -28,8 +29,8 @@
 }
 html,
 body {
-  color: var(--white-2);
-  background-color: var(---5);
+  color: var(--white-3);
+  background-color: var(--ungu-5);
   font-family: "JetBrains Mono", monospace;
   line-height: 2rem;
   background-color: var(--ungu-4);
@@ -112,7 +113,7 @@ a.previous {
 
 .articles .article .article-title,
 .articles .article .article-title a {
-  color: var(--white-2);
+  color: var(--white-3);
   font-weight: 100;
   font-style: italic;
   font-size: 1.4rem;
@@ -135,7 +136,7 @@ a.previous {
   margin: 0 0.5rem 0.3rem 0;
   display: block;
   color: var(--ungu-3);
-  background: var(--white-2);
+  background: var(--white-3);
   border-radius: 15px;
   font-size: 0.7rem;
   padding: 0 0.8rem;
