@@ -84,7 +84,7 @@ nav {
   margin: 0 0.5rem 0 0;
   display: block;
   color: var(--ungu-3);
-  background: var(--white-3);
+  background: white;
   border-radius: 15px;
   font-size: 0.7rem;
   padding: 0 0.8rem;
@@ -132,7 +132,7 @@ nav {
   margin-bottom: 1.75rem;
   font-style: italic;
   font-weight: 100;
-  border-left: 0.3rem solid var(--white-3);
+  border-left: 0.3rem solid white;
 }
 .content strong {
   font-weight: bold;
@@ -158,7 +158,7 @@ nav {
 }
 .content table th {
   background-color: var(--ungu-2);
-  color: var(--white-3);
+  color: white;
   border: 1px solid var(--ungu-4);
 }
 .content table * {
@@ -186,7 +186,7 @@ nav {
 
 .content code {
   padding: 3px 5px;
-  color: var(--white-3);
+  color: white;
   white-space: pre;
   background-color: var(--ungu-2);
 }
