@@ -9,6 +9,11 @@
   --gray-6: #111111;
   --white-1: #eeeeee;
   --white-2: #a9abb3;
+  --ungu-1: #eb7aff;
+  --ungu-2: #d35de8;
+  --ungu-3: #ba44cf;
+  --ungu-4: #8b209e;
+  --ungu-5: #660d75;
 }
 * {
   font-family: inherit;
@@ -25,10 +30,10 @@
 html,
 body {
   color: var(--white-2);
-  background-color: var(--gray-6);
+  background-color: var(--ungu-6);
   font-family: "JetBrains Mono", monospace;
   line-height: 2rem;
-  background-color: var(--gray-5);
+  background-color: var(--ungu-5);
 }
 header {
   padding: 2rem 0 4rem 0;
@@ -92,7 +97,7 @@ main {
 }
 .articles .article {
   padding: 2rem;
-  background: var(--gray-3);
+  background: var(--ungu-3);
   border-radius: 15px;
   transition: all 0.2s ease-in-out;
 }
@@ -130,7 +135,7 @@ a.previous {
 .articles .article .categories .category {
   margin: 0 0.5rem 0.3rem 0;
   display: block;
-  color: var(--gray-4);
+  color: var(--ungu-4);
   background: var(--white-2);
   border-radius: 15px;
   font-size: 0.7rem;
