@@ -1,11 +1,11 @@
-title: Septyanto Rangga
+title: Septianto Rangga
 markdown: kramdown
 url: "https://shera1402.github.io"
 baseurl: "/"
 
 # for atom feed
 author:
-  name: Septyanto Rangga
+  name: Septianto Rangga
   email: srprdtion1402@gmail.com
 
 plugins:
