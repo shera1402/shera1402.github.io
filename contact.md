@@ -10,7 +10,7 @@ title: Contact
 
 ## Mailing Address
 
->DS.Kedungwaru.KEC.Kedungwaru
+>DS.Bulusari.KEC.Kedungwaru
 >
 > Tulungagung
 >
@@ -20,4 +20,4 @@ title: Contact
 
 
 ## Social
-  1. Instagram:
+  1. Instagram:sptrngga
