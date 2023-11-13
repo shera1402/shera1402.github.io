@@ -3,11 +3,11 @@ layout: page
 title: About
 ---
 
-<span style="display:block;text-align:center">![alt](assets/img/aboutme[1].jpg)</span>
-Halo, saya Cecilia Putri Kusumaningtyas!!
+<span style="display:block;text-align:center">![alt]("C:\Users\septi\OneDrive\Pictures\Saved Pictures\WhatsApp Image 2023-11-12 at 17.23.29_4308c19c.jpg")</span>
+Welcome to my website guyss,, Aku Septianto Rangga Saputra!!
 
 Saya adalah seorang mahasiswa di Universitas Bhinneka PGRI jurusan informatika. Blog ini dibuat untuk memenuhi tugas mata kuliah Arsitektur Sistem Komputer.
 
-Selamat datang di blog saya. Terimakasih telah berkunjung😊
+Selamat menyaksikan apa yang saya isikan di web ini,Terima Kasih:)
 
-*"Semandiri-mandirinya orang, kalo lagi cape juga butuh dipeluk dan dipuk puk"*
+*"Jangan pernah merasa lelah karna kegagalan, karna kegagalan adalah pintu pertama menuju sukses"*
